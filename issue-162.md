@@ -52,7 +52,7 @@ Novoda 是一个在伦敦、利物浦、柏林和纽约均有工作室的充满�
 ## 库与代码
 
 **[GlidePalette](https://github.com/florent37/GlidePalette)** (github.com)
-有了 Glide，Android Lollipop 调色板变得更加容易。
+有了 Glide，Android Lollipop 调色板变得更加容易使用。
 
 **[Paginize](https://github.com/neevek/Paginize)** (github.com)
 Paginize 是一个轻量级的安卓应用框架。
