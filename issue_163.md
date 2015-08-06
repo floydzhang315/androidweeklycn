@@ -64,3 +64,28 @@ Rheinfabrik 在招人了！2012 年创建，Rheinfabrik 坐落在 Düsseldorf, G
 **[安卓开发者 @ Booking.com](https://workingatbooking.com/vacancies/android-developer/)** (Amsterdam, the Netherlands)                
 加入并且来提高这个最好的旅游应用吧 － Booking.com 是一个每天有着 850 000 预约量的最大的住宿预约平台 － 这里有挑战等你来！
 
+## 类库 & 代码
+
+**[Dart](https://github.com/f2prateek/dart)**  (github.com)                
+在 Dart 2.0 中，这个团队新增了一个叫做 Henson 的模型，这是一个帮助你在 activity 之间导航的注解处理器。
+
+**[Retroauth](https://github.com/Unic8/retroauth)**  (github.com)             
+一个翻新的安卓类库，可以简单的处理授权请求。
+
+## 新闻
+
+**[用 BLE beacons 来简便开发](http://googledevelopers.blogspot.com/2015/07/lighting-way-with-ble-beacons.html)**  (googledevelopers.blogspot.com)             
+谷歌通过发布一个全新并且开源的每一个人都可以使用的 BLE beacons － Eddystone，正在扩张 beacon 科技的用户范围。Eddystone 非常强健并且可扩展：它支持多种用户的框架类型，并且它可以让版本介绍新功能更加容易。
+
+**[用 Nearby API 来连接你周围的世界](http://googledevelopers.blogspot.com/2015/07/connect-with-world-around-you-through.html)**  (googledevelopers.blogspot.com)             
+Nearby 为安卓和 iOS 设备提供了一个可以发现并且与其他人交流的亲近的 API － Nearby Messages，这也可以与 beacons 一起使用。
+
+## 工具
+
+**[Smartphone Test Farm](https://openstf.github.io/)** (openstf.github.io)             
+通过浏览器来控制和原理你的智能手机设备。
+
+## 视频
+
+**[安卓对话框: Richa Khandelwal](https://www.youtube.com/watch?v=VTaguVtvuYI)** (www.youtube.com)            
+在 Mountain View 中，Chiu-Ki 花了一些时间来与 在 Coursera 的有关安卓和 VIPER  的资深工程师 Richa Khandelwal 交流。
