@@ -9,19 +9,19 @@
 
 **[Android 测试蓝图](https://plus.google.com/+AndroidDevelopers/posts/NPagF6bpHsv)**
 （plus.google.com）  
-Android 应用程序的自动化测试应该是任何开发人员的工作流的一部分。虽然这非常具有挑战性，谷歌已经创建一个名为 Android 测试蓝图 (ATBP) 的全新模板项目。
+Android 应用程序的自动化测试应该是任何开发人员的工作流的一部分。虽然这非常具有挑战性，不过谷歌已经创建一个名为 Android 测试蓝图 (ATBP) 的全新模板项目。
 
 **[曲线运动 — — 第一部分](https://plus.google.com/+AndroidDevelopers/posts/NPagF6bpHsv)**
 （blog.stylingandroid.com）  
 最近 Play Store 应用程序进行了更新，当把列表转换成为详细的视图的时候，更新会提供曲线运动。在这些短篇系列文章中，Mark Allison 将会带领大家探寻如何去实现曲线运动。
 
-**[RxJava 代码审查第一部分](http://artemzin.com/blog/rxjava-code-review-part-1/)**
+**[RxJava 代码审查 — — 第一部分](http://artemzin.com/blog/rxjava-code-review-part-1/)**
 （artemzin.com）  
-如果 Artem Zinnatulin 在 RxJava 发现了一些可疑的东西 (特别是关于安卓系统) ，那么他将对 RxJava 软件源的代码进行审查，然后更好地理解它，创建问题和PRS。
+如果 Artem Zinnatulin 在 RxJava 发现了一些可疑的东西 (特别是关于 Android 系统) ，那么他将对 RxJava 软件源的代码进行审查，然后更好地理解它，创建问题和PRS。
 
-**[在 30 分钟内拥有个人的安卓 Maven 存储库](https://jeroenmols.github.io/blog/2015/08/06/artifactory/)**
+**[在 30 分钟内拥有个人的 Android Maven 存储库](https://jeroenmols.github.io/blog/2015/08/06/artifactory/)**
 （jeroenmols.github.io）  
-在 30 分钟以内你将拥有一个运作充分的个人 Maven 存储库，并且其中已经配置了您的 Gradle 编译来上传您的安卓库工具。Jeroen Mols 将和您分享怎样轻松快速的去完成它的所有步骤。
+在 30 分钟以内你将拥有一个运作充分的个人 Maven 存储库，并且其中已经配置了您的 Gradle 编译来上传您的 Android 库工具。Jeroen Mols 将和您分享怎样轻松快速的去完成它的所有步骤。
 
 **[Android Studio + Gradle 1.3 的非公共资源](https://plus.google.com/+ChrisBanes/posts/8Rip6rQGK32)**
 （plus.google.com）  
@@ -53,7 +53,7 @@ Dave Smith 最近在 AnDevCon 波斯顿通过 Google Beacons 和 Physical Web �
 
 **[使用 Espresso 框架 让 UI 测试更容易](http://www.michaelevans.org/blog/2015/08/03/using-espresso-for-easy-ui-testing/)**
 （www.michaelevans.org）  
-编写一个 Espresso 测试其实很简单，将它和您的基本代码集成也并不是想象中那么难。在本文中会给出一些建议和技巧来让它更容易。
+编写一个 Espresso 测试其实很简单，将它和您的基本代码集成也并不是想象中那么难。在本文中会给出一些建议和技巧来让它更容易实现。
 
 **[用四步来扩展一个 RecyclerView](https://www.bignerdranch.com/blog/expand-a-recyclerview-in-four-steps/)**
 （www.bignerdranch.com）  
@@ -63,7 +63,7 @@ Dave Smith 最近在 AnDevCon 波斯顿通过 Google Beacons 和 Physical Web �
 
 **[获取免费的远程测试服务](https://software.intel.com/en-us/android/app-testing?cid=&utm_content=General_Developers&utm_medium=Newsletter%20Placement&utm_source=Android%20Weekly&utm_campaign=Android%20ASMO%20Q3%2015%20Digital%20Marketing%20Campaign)**
 （software.intel.com）  
-英特尔 ® 软件正在赞助免费的基于 Intel 的 Android 设备的应用程序测试。在实际设备上使用 Espresso, uiautomator, robotium, JUnit 或者 内置测试脚本进行远程测试。请参见这篇文章吧。
+英特尔 ® 软件正在赞助免费的基于 Intel 的 Android 设备的应用程序测试。在实际设备上使用 Espresso, uiautomator, robotium, JUnit 或者 内置测试脚本进行远程测试。请参见这篇文章。
 
 **[迫切需求 Android 开发者](http://hired.com/?utm_source=newsletters&utm_medium=androidweekly&utm_campaign=n-q3_15-androidweeklyspons)**
 （hired.com）  
