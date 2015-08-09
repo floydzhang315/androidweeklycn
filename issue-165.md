@@ -17,7 +17,7 @@ Android 应用程序的自动化测试应该是任何开发人员的工作流的
 
 **[RxJava 代码审查 — — 第一部分](http://artemzin.com/blog/rxjava-code-review-part-1/)**
 （artemzin.com）  
-如果 Artem Zinnatulin 在 RxJava 发现了一些可疑的东西 (特别是关于 Android 系统) ，那么他将对 RxJava 软件源的代码进行审查，然后更好地理解它，创建问题和PRS。
+如果 Artem Zinnatulin 在 RxJava 发现了一些可疑的东西 (特别是关于 Android 系统) ，那么他将对 RxJava 软件源的代码进行审查，然后更好地理解它，创建问题和 PRS。
 
 **[在 30 分钟内拥有个人的 Android Maven 存储库](https://jeroenmols.github.io/blog/2015/08/06/artifactory/)**
 （jeroenmols.github.io）  
