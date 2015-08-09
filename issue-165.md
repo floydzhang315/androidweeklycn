@@ -41,7 +41,7 @@ Android 应用程序的自动化测试应该是任何开发人员的工作流的
 
 **[一个关于分享和重播运算符的提示](http://blog.kaush.co/2015/07/11/a-note-about-the-warmth-share-operator/)**
 （blog.kaush.co）  
-大多数的 Android 开发者在使用 RxJava 时存在一个常见的问题: 如何在配置更改时通过观察来保存或缓存所做的工作？
+大多数的 Android 开发者在使用 RxJava 时存在一个常见的问题： 如何在配置更改时通过观察来保存或缓存所做的工作？
 
 **[Google Beacons 和 Physical Web ](https://passy.svbtle.com/simpler-android-apis-with-autoparcel)**
 （newcircle.com）  
@@ -63,7 +63,7 @@ Dave Smith 最近在 AnDevCon 波斯顿通过 Google Beacons 和 Physical Web �
 
 **[获取免费的远程测试服务](https://software.intel.com/en-us/android/app-testing?cid=&utm_content=General_Developers&utm_medium=Newsletter%20Placement&utm_source=Android%20Weekly&utm_campaign=Android%20ASMO%20Q3%2015%20Digital%20Marketing%20Campaign)**
 （software.intel.com）  
-英特尔 ® 软件正在赞助免费的基于 Intel 的 Android 设备的应用程序测试。在实际设备上使用 Espresso, uiautomator, robotium, JUnit 或者 内置测试脚本进行远程测试。请参见这篇文章。
+英特尔 ® 软件正在赞助免费的基于 Intel 的 Android 设备的应用程序测试。在实际设备上使用 Espresso, uiautomator, robotium, JUnit 或者内置测试脚本进行远程测试。请参见这篇文章。
 
 **[迫切需求 Android 开发者](http://hired.com/?utm_source=newsletters&utm_medium=androidweekly&utm_campaign=n-q3_15-androidweeklyspons)**
 （hired.com）  
