@@ -1,7 +1,7 @@
 # Issue #165
 
 >
-原文链接：<http://androidweekly.net/issues/issue-164>
+原文链接：<http://androidweekly.net/issues/issue-165>
 
 > [点击订阅邮箱](http://tinyletter.com/androidweeklycn)第一时间掌握 Android Weekly 中文版更新动态
 
