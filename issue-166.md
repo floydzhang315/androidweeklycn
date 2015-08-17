@@ -13,7 +13,7 @@
 
 **[在 Android 开发者看来 Effective Java](http://fragmentedpodcast.com/episodes/14/)**
 （fragmentedpodcast.com）  
- 中的规则如何？。第一条受人尊敬的“规则”：”考虑使用静态的工厂方法而不是构造函数“就是一些支离破碎的介绍。
+在 Android 开发者看来 Effective Java 中的规则如何？。第一条受人尊敬的“规则”：”考虑使用静态的工厂方法而不是构造函数“就是一些支离破碎的介绍。
  
 **[安卓系统中的 FlatBuffers](http://frogermcs.github.io/flatbuffers-in-android-introdution/)**
 （frogermcs.github.io）  
@@ -29,11 +29,11 @@ Iconify 是一个很酷的用来管理您的 Android 应用程序中的图标轻
 
 **[曲线运动 — — 第二部分](https://blog.stylingandroid.com/curved-motion-part-2/)**
 （blog.stylingandroid.com）  
-很少有开发人员能够很幸运的指定 minSdkVersion ="21"，并且使用 arcMotion 的场景切换。Mark Allison 展示了一种真正的捷径可以做到和 API 11（Honeycomb） 一样的简单。
+很少有开发人员能够很幸运的指定 minSdkVersion ="21"，并且使用 arcMotion 的场景切换。Mark Allison 展示了一种真正的捷径，该方法可以做到和 API 11（Honeycomb） 一样的简单。
 
 **[Google Play 服务中的条码检测](http://android-developers.blogspot.com/2015/08/barcode-detection-in-google-play.html?linkId=16316033)**
 （android-developers.blogspot.com）  
-随着 Google Play 服务 7.8 的发布  谷歌新增加移动视觉 API 来提供条码扫描仪的 API ，可以快速容易的在本地对不同类型的条形码进行读取和解码。
+随着 Google Play 服务 7.8 的发布  谷歌新增加移动视觉 API 来提供条码扫描的 API ，可以快速容易的在本地对不同类型的条形码进行读取和解码。
 
 **[游戏编程模式 ](http://gameprogrammingpatterns.com/contents.html)**
 （gameprogrammingpatterns.com）  
@@ -53,13 +53,13 @@ Iconify 是一个很酷的用来管理您的 Android 应用程序中的图标轻
 
 **[Proximity Beacon API](https://medium.com/ribot-labs/exploring-google-eddystone-with-the-proximity-beacon-api-bc9256c97e05)**
 （medium.com）  
-谷歌最近发布了其跨平台 BLE 信标格式。在这篇文章来自 Ribot 实验室的小伙子对它进行了研究，并向您展示如何使用这个新的 API 来管理您的信标。
+谷歌最近发布了其跨平台 BLE 信标格式。这篇文章是 Ribot 实验室的小伙子对它进行了研究以后发表的，会向您展示如何使用这个新的 API 来管理您的信标。
 
 ## 赞助
 
 **[自动为您的应用程序进行 CI 构建和测试](https://ship.io/landing/?utm_source=androiddevweekly)**
 （ship.io）  
-为原生的 Android 应用程序的 easy cloud CI 查阅 easy cloud CI 。通过多个平台和设备进行建立、 测试与部署。Ship 支持 Gradle，最新的 Android OS 以及更多。特别为我们 Android 每周开发的朋友们准备了 100 美元的信用金。请在注册后输入促销代码 androiddevweekly!
+为原生的 Android 应用程序的 easy cloud CI 查阅 Ship.io。通过多个平台和设备进行建立、 测试与部署。Ship 支持 Gradle，最新的 Android OS 以及更多。特别为我们 Android 每周开发的朋友们准备了 100 美元的信用金。请在注册后输入促销代码 androiddevweekly!
 
 **[Intel® INDE 进行更快的开发](https://software.intel.com/en-us/intel-inde?cid=&utm_content=General_Developers&utm_medium=Newsletter%20Placement&utm_source=Android%20Weekly&utm_campaign=Android%20ASMO%20Q3%2015%20Digital%20Marketing%20Campaign)**
 （software.intel.com）  
@@ -95,7 +95,7 @@ ReactiveNetwork 是一个 Android 库，它可以侦听网络连接状态以及�
 
 **[android-apt 1.7 发布](https://plus.google.com/+HugoVisser/posts/jhUWS2Lw1q2)**
 （plus.google.com）  
-Hugo Visser 发布了对 android-apt 的一个更新，是一个协助注释处理器和 Android studio结合的 gradle 插件。
+Hugo Visser 发布了对 android-apt 的一个更新，这是一个协助注释处理器和 Android studio结合的 gradle 插件。
 
 **[Android Saripaar](https://github.com/ragunathjawahar/android-saripaar)**
 （github.com）  
