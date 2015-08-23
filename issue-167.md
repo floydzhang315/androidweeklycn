@@ -13,7 +13,7 @@
 
 **[这应该成为一个库吗?](http://ryanharter.com/blog/2015/08/20/should-this-be-a-library/)**
 （ryanharter.com）  
-Ryan Harter 来自于咨询世界，在这里有一个共同的特性，就是让所有的东西都可以成为一个库。这里有几点建议可以帮助您决定是否让一个东西成为一个库。
+Ryan Harter 来自于咨询世界，在这里有一个共同的特性，就是让所有的事物都可以成为一个库。这里有几点建议可以帮助您决定是否让一个事物成为一个库。
 
 **[JR Raphael 认为 M 代表 Marshmallow](http://ryanharter.com/blog/2015/08/20/should-this-be-a-library/)**
 （theblerg.net）  
@@ -124,4 +124,4 @@ Chiu-Ki 与 谷歌开发者的主持者 Katherine Kuan 闲逛的时候谈到了�
 
 **[应用程序世界将于 11 月 18-19 日在伦敦举办](http://europe.apps-world.net/?utm_source=mediapartner&utm_medium=banner&utm_campaign=Andriod%20weekly)**
 （europe.apps-world.net）  
-该活动汇集了开发商，领先的品牌、 电信、 初创企业和投资者，并且仍然提供了唯一的平台以满足，合作伙伴，以及整个全球应用社区!拥有 11 个会议，300 + 令人敬畏的发言者，250 多家参展商，启动区，以及 Appsters 奖项；这个事件看起来将会成为相互交流和兴奋的繁荣景象。
+该活动汇集了开发商，领先的品牌、 电信、 初创企业和投资者，并且仍然提供了唯一的平台以满足，合作伙伴，以及整个全球应用社区!拥有 11 个会议，300 + 令人敬畏的发言者，250 多家参展商，启动区，以及 Appsters 奖项；这个事件看起来将会形成一个相互交流的兴奋的繁荣景象。
