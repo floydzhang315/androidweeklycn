@@ -8,6 +8,146 @@
 
 ## 条款 & 教程
 
-**[最近的 SDK，API 文档，GitHub 上的案例来啦](https://plus.google.com/+AndroidDevelopers/posts/NPagF6bpHsv)**
+**[贸易工具](https://plus.google.com/+AndroidDevelopers/posts/NPagF6bpHsv)**
 （plus.google.com）  
-使用 Nearby.Messages 来给你的安卓和 iOS 应用增加跨平台代理。它可以在100步之内(或者使用 "earshot" 将它限制在5步之内)工作，即使用户的蓝牙没起作用。没有新的 manifest 权限并且可以始终向后移植到 Gingerbread。。
+这些幻灯片展示了在安卓开发工厂中最低调的资源之一：支持的工具。
+
+**[让您的应用程序更流畅](https://plus.google.com/+AndroidDevelopers/posts/NPagF6bpHsv)**
+（plus.google.com）  
+Udi Cohen 评论了关于使用 Systrace, Traceview, Hierarchy Viewer, Allocation Tracker, Eclipse MAT 以及其他工具的研究例子，展示了应用程序可能遇到的问题并且给出了解决它们的办法。
+
+**[安卓相机 2 的 API ](https://plus.google.com/+AndroidDevelopers/posts/NPagF6bpHsv)**
+（plus.google.com）  
+这是一个关于安卓的相机 2 API 的一个高水平的介绍的文章。该 API 可以检查基础相机子系统和硬件提取层的变化，对摄像头 API 建立了一个完整的返修功能(Droidcon 纽约，2015年)。
+
+**[Android 用户界面工程中的新功能 ](https://plus.google.com/+AndroidDevelopers/posts/NPagF6bpHsv)**
+（plus.google.com）  
+这是由 Nick Butcher, Roman Nurik 和 Chris Banes  “Droidcon 纽约 2015" 大会上进行演示”Android 用户界面工程中的新功能“的幻灯片。
+
+**[API 7+ 中的 Preference Fragments](https://plus.google.com/+AndroidDevelopers/posts/NPagF6bpHsv)**
+（plus.google.com）  
+Preferences Support v7 类让我们可以在使用任何 Activity 类的时候同时使用 PreferenceFragmentCompat 并且使用相同的 XML 来添加 Preference。
+
+**[一个搭载 Retrofit 2 的简单的 HTTP](https://plus.google.com/+AndroidDevelopers/posts/NPagF6bpHsv)**
+（plus.google.com）  
+为了解决一些长期存在的烦恼，Retrofit 2 比以前拥有了更多更强大的新功能(Droidcon 纽约，2015年)。
+
+**[掌握 RecyclerView 的布局](https://plus.google.com/+AndroidDevelopers/posts/NPagF6bpHsv)**
+（plus.google.com）  
+本文介绍了 Dave SMith 的一个关于为 Android 的 RecyclerView 创建自定义的 LayoutManager 的理智的方法(Droidcon 纽约，2015年)。
+
+**[开发可维护的应用程序](https://plus.google.com/+AndroidDevelopers/posts/NPagF6bpHsv)**
+（plus.google.com）  
+一个伟大的 Android 应用程序仅仅需要去实现该产品的目标与功能，而不是美化开发人员的简历。这里有关于如何交付高质量 Android 应用程序的技巧值得去学习(Droidcon 纽约，2015年)。
+
+**[数据绑定技术](https://plus.google.com/+AndroidDevelopers/posts/NPagF6bpHsv)**
+（plus.google.com）  
+现在，数据绑定技术已经脱离了候选版本的地位，现在是时候开始在您的项目中使用它了(Droidcon 纽约，2015年)。
+
+**[Android 的体系结构](https://plus.google.com/+AndroidDevelopers/posts/NPagF6bpHsv)**
+（plus.google.com）  
+这是一个对 MVC，MVP 和 MVVM 安卓项目的简单指南。
+
+**[使用 Facebook 的 Stetho 来调试 Android 应用程序](https://plus.google.com/+AndroidDevelopers/posts/NPagF6bpHsv)**
+（plus.google.com）  
+Stetho 是一个由 facebook 开发的开源的调试平台，为 Android 开发者提供了丰富的以及高度互动的调试经验。
+
+**[使用运行时的权限来构建更好的应用程序](https://plus.google.com/+AndroidDevelopers/posts/NPagF6bpHsv)**
+（plus.google.com）  
+Android 6.0 Marshmallow 介绍了权限模型最大的变化之一就是添加了运行时的权限，当您的应用程序在一个 Android 6.0 + 版本的设备上运行时并且把 API 23 作为目标，它可以替换现有的安装的时间权限模型。
+
+**[你在物质世界中的品牌](https://plus.google.com/+AndroidDevelopers/posts/NPagF6bpHsv)**
+（plus.google.com）  
+本文是 Liam Spradlin 在 Droidcon 纽约关于”你在物质世界中的品牌“的演示文稿中的幻灯片和备注。
+
+**[宣布 Android 的自动桌面头部装置](https://plus.google.com/+AndroidDevelopers/posts/NPagF6bpHsv)**
+（plus.google.com）  
+谷歌发布了桌面头部装置 (DHU)，这是一种为安卓汽车开发者开发的一个新的测试工具。DHU 可以使您的工作站可以作为一个可以为了达到目的模拟车内体验的 Android 汽车头部装置。
+
+**[Percent 库 —— 第一部分](https://plus.google.com/+AndroidDevelopers/posts/NPagF6bpHsv)**
+（plus.google.com）  
+在这些短篇的系列文章中，Mark Allison 将会观察和研究以及展示一个新的名叫 Percent 的支持库，它可以提供一个替代品在线性布局中使用权重来在你的布局内划分空间。
+
+**[不要疯狂的使用样式和主题](https://plus.google.com/+AndroidDevelopers/posts/NPagF6bpHsv)**
+（plus.google.com）  
+这是 Dan Lew' 在 Droidcon 纽约 2015年上的演示文稿”不要疯狂的使用样式和主题“。
+
+**[RxJava 框架： 将侦听器转换成一个可观测对象](https://plus.google.com/+AndroidDevelopers/posts/NPagF6bpHsv)**
+（plus.google.com）  
+在 Java 中，它与监听器一同运作是很常见的事情。如果您使用 RxJava ，你会更喜欢使用一个可观测对象，而不是监听器。但是在如果你要处理一个库并且不能更改源代码的情况下呢？
+
+**[在带有 AndroidFillableLoaders 的画布上和 SVG 路径一同开发](https://plus.google.com/+AndroidDevelopers/posts/NPagF6bpHsv)**
+（plus.google.com）  
+Jorge Castillo 为一个被给定的 SVG 路径创建的自定义剪影释放一个新的带有有趣的填充效果的库，并且它在安卓社区可以完全开放的被扩展。
+
+## 赞助
+
+**[安卓系统 UI: 在 UI 框架中填补空白](https://plus.google.com/+AndroidDevelopers/posts/NPagF6bpHsv)**
+（plus.google.com）  
+一个原生 Android 控件来加快你的开发过程：10多个图表系列；ListView 可以处理多个手势，并且提供额外的布局;卡布局的面板;快速创建移动表单的数据表单;日历和 SideDrawer 的控件。下载免费试用版!
+
+**[让您的手机去代替你分析吧](https://plus.google.com/+AndroidDevelopers/posts/NPagF6bpHsv)**
+（plus.google.com）  
+Answers 会让您了解用户在您的应用程序内的行为以及什么才是您的数据的重点 — — 所有的时间内。被 Spotify，Buzzfeed 以及 Google Play 上其他顶级应用程序所信任，Answers 每天会处理超过 50 亿的事件。快来使用 Answers 吧— — 它是免费的！
+
+**[在远程测试服务上获得免费的时间](https://plus.google.com/+AndroidDevelopers/posts/NPagF6bpHsv)**
+（plus.google.com）  
+Intel® Software 正在赞助在基于 Intel 的 Android 设备上对应用程序进行免费测试。在远程的实际设备上使用 Espresso, uiautomator, robotium, JUnit 或者内置测试脚本自动测试您的应用程序。快开始吧。
+
+## 设计
+
+**[开发人员的 Android 设计课程](https://plus.google.com/+AndroidDevelopers/posts/NPagF6bpHsv)**
+（plus.google.com）  
+在这个免费的课程中，您将学习如何把 Android 的视觉语言材料的设计原则应用到您的应用程序 ，将于周一，8 月 31 日发布。
+
+## 工作
+
+**[Android 推广 / 开发人员](https://plus.google.com/+AndroidDevelopers/posts/NPagF6bpHsv)**
+（德国柏林）  
+Contentful 让使用 API 驱动方法来让内容管理对开发人员更友好 。你还要负责我们的开源 Android Sdk 以及示例应用程序，你还需要出席安卓社区的群体活动和会议，进行演讲，传播 Contentful。
+
+**[Android 开发者](https://plus.google.com/+AndroidDevelopers/posts/NPagF6bpHsv)**
+（费城或纽约）  
+我们正在寻找工程师来帮助我们创建可以增强用户体验的软件。我们建立各种 Android 应用程序以及各种形式的影响因素和版本，并且每隔几周就会在 Google play 商店以及亚马逊应用程序商店进行更新。成为 DramaFever 的一部分是十分令人激动的！
+
+**[Android 开发者 @ Tidal ](https://plus.google.com/+AndroidDevelopers/posts/NPagF6bpHsv)**
+（奥斯陆）  
+我们正在寻找一个自主的并且具有很高的积极性然后对音乐有兴趣的应用程序开发人员。你需要有一种对产品的想法来编写您的代码，即使在若干年后回过头来看，你也会觉得是一种乐趣。你需要在设计中有对细节进行观察，让用户爱上你的作品。
+
+**[高级 Android 工程师 @ ask.com ](https://plus.google.com/+AndroidDevelopers/posts/NPagF6bpHsv)**
+（奥克兰，加利福尼亚或纽约，纽约）  
+经验丰富的安卓工程师 @APN #奥克兰 & #纽约
+
+**[高级的 Android 工程师-帮助我们建立一个 SDK!](https://plus.google.com/+AndroidDevelopers/posts/NPagF6bpHsv)**
+（远程）  
+我们正在为成千上万的应用程序提供引擎，比如在汉莎航空的驾驶舱以及伦敦地铁中使用的 Dropbox。PSPDFKit 将会是目前为止您做过的最有趣和最复杂的项目之一。我们有一个优秀的团队，并且它正在壮大。
+
+## 库与代码
+
+**[很棒的-材料](https://plus.google.com/+AndroidDevelopers/posts/NPagF6bpHsv)**
+（远程）  
+这是一个可以让开发人员很容易的将材料设计和带有图标的 bootstrap 按钮结合注入到他们的应用程序或者简单的图标主题文本视图中。   
+
+**[Aftermath](https://plus.google.com/+AndroidDevelopers/posts/NPagF6bpHsv)**
+（远程）  
+一个用来生成 onActivityForResult 处理程序的简单的、 基于注释的 Android 库。
+
+**[GAlette](https://plus.google.com/+AndroidDevelopers/posts/NPagF6bpHsv)**
+（远程）  
+跟踪安卓系统的谷歌分析的注释触发。
+
+**[MVVM_Hacker_News](https://plus.google.com/+AndroidDevelopers/posts/NPagF6bpHsv)**
+（远程）  
+一个实验的黑客新闻阅读器，使用官方数据绑定库把它作为 MVVM 结构化的项目来创建。
+
+**[Assertj-rx](https://plus.google.com/+AndroidDevelopers/posts/NPagF6bpHsv)**
+（远程）  
+这个库是 AssertJ 核心的扩展，它的目的是提供优雅的申明来测试 RxJava 监控。
+
+**[SCViewPager ](https://plus.google.com/+AndroidDevelopers/posts/NPagF6bpHsv)**
+（远程）  
+一个简单的卡片式界面的扩展，就像爵士乐手那样为 iOS 提供基于动画的滚动。
+
+**[AndroidFillableLoaders](https://plus.google.com/+AndroidDevelopers/posts/NPagF6bpHsv)**
+（远程）  
+Android 的开源库，和 SVG 路径一同运作，提供有趣的可填充进度视图。
