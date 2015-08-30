@@ -16,13 +16,13 @@
 （speakerdeck.com）  
 Udi Cohen 评论了关于使用 Systrace, Traceview, Hierarchy Viewer, Allocation Tracker, Eclipse MAT 以及其他工具的研究例子，展示了应用程序可能遇到的问题并且给出了解决它们的办法。
 
-**[安卓相机 2 的 API ](https://speakerdeck.com/randomlytyping/android-camera-2-api**
+**[安卓相机 2 的 API ](https://speakerdeck.com/randomlytyping/android-camera-2-api)**
 （speakerdeck.com）  
 这是一个关于安卓的相机 2 API 的一个高水平的介绍的文章。该 API 可以检查基础相机子系统和硬件提取层的变化，对摄像头 API 建立了一个完整的返修功能(Droidcon 纽约，2015年)。
 
 **[Android 用户界面工程中的新功能 ](http://t.co/0eAFQxtlI7)**
 （t.co）  
-这是由 Nick Butcher, Roman Nurik 和 Chris Banes  “Droidcon 纽约 2015" 大会上进行演示”Android 用户界面工程中的新功能“的幻灯片。
+这是由 Nick Butcher, Roman Nurik 和 Chris Banes  在“Droidcon 纽约 2015" 大会上进行演示”Android 用户界面工程中的新功能“的幻灯片。
 
 **[API 7+ 中的 Preference Fragments](https://plus.google.com/+AndroidDevelopers/posts/9kZ3SsXdT2T)**
 （plus.google.com）  
@@ -60,9 +60,9 @@ Android 6.0 Marshmallow 介绍了权限模型最大的变化之一就是添加�
 （www.liamspradlin.com）  
 本文是 Liam Spradlin 在 Droidcon 纽约关于”你在物质世界中的品牌“的演示文稿中的幻灯片和备注。
 
-**[宣布 Android 的自动桌面头部装置](http://android-developers.blogspot.com/2015/08/announcing-android-auto-desktop-head.html)**
+**[宣布 Android 的汽车桌面头部装置](http://android-developers.blogspot.com/2015/08/announcing-android-auto-desktop-head.html)**
 （android-developers.blogspot.com）  
-谷歌发布了桌面头部装置 (DHU)，这是一种为安卓汽车开发者开发的一个新的测试工具。DHU 可以使您的工作站可以作为一个可以为了达到目的模拟车内体验的 Android 汽车头部装置。
+谷歌发布了桌面头部装置 (DHU)，这是一种为安卓汽车开发者开发的一个新的测试工具。DHU 可以使您的工作站作为一个可以为了达到目的模拟车内体验的 Android 汽车头部装置。
 
 **[Percent 库 —— 第一部分](https://blog.stylingandroid.com/percent-part-1/)**
 （blog.stylingandroid.com）  
@@ -88,7 +88,7 @@ Jorge Castillo 为一个被给定的 SVG 路径创建的自定义剪影释放一
 
 **[让您的手机去代替你分析吧](https://answers.io/?utm_source=sponsor&utm_medium=androidweekly&utm_campaign=androidweekly_8.30.2015&utm_content=sponsor_linkv)**
 （answers.io）  
-Answers 会让您了解用户在您的应用程序内的行为以及什么才是您的数据的重点 — — 所有的时间内。被 Spotify，Buzzfeed 以及 Google Play 上其他顶级应用程序所信任，Answers 每天会处理超过 50 亿的事件。快来使用 Answers 吧— — 它是免费的！
+Answers 会让您了解用户在您的应用程序内的行为以及什么才是您的数据的重点 — — 在所有的时间内。被 Spotify，Buzzfeed 以及 Google Play 上其他顶级应用程序所信任，Answers 每天会处理超过 50 亿的事件。快来使用 Answers 吧— — 它是免费的！
 
 **[在远程测试服务上获得免费的时间](https://software.intel.com/en-us/android/app-testing?cid=&utm_content=General_Developers&utm_medium=Newsletter%20Placement&utm_source=Android%20Weekly&utm_campaign=Android%20ASMO%20Q3%2015%20Digital%20Marketing%20Campaign)**
 （software.intel.com）  
@@ -104,7 +104,7 @@ Intel® Software 正在赞助在基于 Intel 的 Android 设备上对应用程�
 
 **[Android 推广 / 开发人员](http://contentful.workable.com/jobs/93482)**
 （德国柏林）  
-Contentful 让使用 API 驱动方法来让内容管理对开发人员更友好 。你还要负责我们的开源 Android Sdk 以及示例应用程序，你还需要出席安卓社区的群体活动和会议，进行演讲，传播 Contentful。
+Contentful 使用 API 驱动方法来让内容管理对开发人员更友好 。你还要负责我们的开源 Android Sdk 以及示例应用程序，你还需要出席安卓社区的群体活动和会议，进行演讲，传播 Contentful。
 
 **[Android 开发者](http://www.jsco.re/3c4l)**
 （费城或纽约）  
