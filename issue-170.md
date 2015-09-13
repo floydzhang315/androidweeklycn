@@ -64,7 +64,19 @@ Chiu-Ki Chan 公布了她从 2015 年起所有会议的涂鸦笔记。
 （speakerdeck.com）  
 Dan Lew 提出了一些优秀的观点，说明了你为什么不应该在你的依赖关系中使用动态的版本号。
 
+## 赞助
 
+**[使用 Contentful 来创建你的第一个脱机 Android 应用程序](https://speakerdeck.com/rock3r/tools-of-the-trade-droidcon-nyc-2015)**
+（speakerdeck.com）  
+其内容不是固定的编码，而是一种可以保持的乐趣。Contentful 通过它的 JSON API 将托管的内容发送到移动应用程序。它的目标是为了让开发更简单: 通过下面的链接，您可以看到安卓系统中可以立即使用内容同步库。我们邀请您尝试 Contentful，因为它是开发人员最友好的 CMS。
+
+**[让您的手机去代替你分析吧](https://speakerdeck.com/rock3r/tools-of-the-trade-droidcon-nyc-2015)**
+（speakerdeck.com）  
+Answers 会让您了解用户在您的应用程序内的行为以及什么才是您的数据的重点 — — 所有的时间内。被 Spotify，Buzzfeed 以及 Google Play 上其他顶级应用程序所信任，Answers 每天会处理超过 50 亿的事件。快来使用 Answers 吧— — 它是免费的！
+
+**[英特尔 ® Android 培训创造更好的体验](https://speakerdeck.com/rock3r/tools-of-the-trade-droidcon-nyc-2015)**
+（speakerdeck.com）  
+使用英特尔 ®提供的工具可以节省您的时间，并且把您的应用程序放到多个平台和架构。这个很容易学习的视频给您提供了很多的提示，并且附加的资源也能让您了解更多。
 
 
 
