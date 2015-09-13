@@ -78,6 +78,29 @@ Answers 会让您了解用户在您的应用程序内的行为以及什么才是
 （speakerdeck.com）  
 使用英特尔 ®提供的工具可以节省您的时间，并且把您的应用程序放到多个平台和架构。这个很容易学习的视频给您提供了很多的提示，并且附加的资源也能让您了解更多。
 
+## 工作
+
+**[安卓开发人员](https://speakerdeck.com/rock3r/tools-of-the-trade-droidcon-nyc-2015)**
+（speakerdeck.com）  
+我们正在寻找经验丰富安卓开发人员，有实进行过安卓 APP 的开发，有参加过多人项目的经验。在 Fuzz 里，你将会领导和开发为许许多多公司打造的拥有各种不同功能的安卓 APP，我们的目标是从创业公司到世界前 100 强。
+
+**[移动开发经理 @ Spotify](https://speakerdeck.com/rock3r/tools-of-the-trade-droidcon-nyc-2015)**
+（New York）  
+我们正在寻找愿意加入到专注于自由层货币化、广告的底层建设和晋升的 Monetization 部门中来的移动开发经理。你将会领导一个运营移动产品开发的团队来提供收入。
+
+**[安卓工程师 @ Spotify](https://speakerdeck.com/rock3r/tools-of-the-trade-droidcon-nyc-2015)**
+（New York）  
+我们正在寻找考虑周到并且全面的 Android 工程师来加入我们的团队，帮助我们构建一个每天有数百万人用来发现和收听音乐的应用程序。对于移动工程实践和实现新的功能方面，您将发挥主导作用。
+
+**[安卓开发人员](https://speakerdeck.com/rock3r/tools-of-the-trade-droidcon-nyc-2015)**
+（Philadelphia or NYC）  
+我们正在寻找一名安卓工程师加入到我们在费拉德尔菲亚或者纽约的四人团队中。我们正在和设计和产品团队紧密合作中，旨在开发一款能够为我们的用户在各种平台上 -- 手机、平台和电视 -- 提供出色的视频流服务的应用。快来加入 DramaFever 吧！
+
+**[高级安卓工程师 - 帮助我们开发 SDK！](https://speakerdeck.com/rock3r/tools-of-the-trade-droidcon-nyc-2015)**
+（Philadelphia or NYC）  
+我们为成千的 APP 比如 Dropbox 提供引擎，并且正在 Cockpits of Lufthansa 或者伦敦地铁中使用。PSPDFKit 将会是你参加的最有趣和最复杂的项目之一。我们有一个极具天赋的团队，并亟待发展。
+
+
 
 
 
