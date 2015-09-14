@@ -114,7 +114,17 @@ Answers 会让您了解用户在您的应用程序内的行为以及什么才是
 （github.com）  
 安卓系统的 ksoap2 库发布到了 3.5 版本，在该版本中更新了很多东西。
 
+## 新闻
 
+**[开发者的游戏战利品减少](https://speakerdeck.com/rock3r/tools-of-the-trade-droidcon-nyc-2015)**
+（github.com）  
+谷歌正在使用两个新的分析报告来扩展玩家分析，它可以让您更好的了解基于时间的玩家活动和游戏事件。他们也在引进新的玩家统计数据的 API，让您在整个游戏的生命周期为特定部分的玩家调整游戏体验。
+
+## 工具
+
+**[LayerVisualizer](https://speakerdeck.com/rock3r/tools-of-the-trade-droidcon-nyc-2015)**
+（github.com）  
+一个来自罗马  Nurik 的简单的基于 web 的 3D 的图层可视化工具 (用于可视化材料 Ui 和其他涉及深度/阴影的东西) 。
 
 
 
