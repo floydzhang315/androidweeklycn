@@ -144,4 +144,4 @@ Rx Observables 的互动关系图。
 
 **[Droidcon San Francisco](http://sf.droidcon.com/)**
 （sf.droidcon.com）  
-使用此促销代码可以得到 20%的折扣: DROIDCON4AW20
+使用此促销代码可以得到 20%的折扣： DROIDCON4AW20
