@@ -100,9 +100,19 @@ Answers 会让您了解用户在您的应用程序内的行为以及什么才是
 （Philadelphia or NYC）  
 我们为成千的 APP 比如 Dropbox 提供引擎，并且正在 Cockpits of Lufthansa 或者伦敦地铁中使用。PSPDFKit 将会是你参加的最有趣和最复杂的项目之一。我们有一个极具天赋的团队，并亟待发展。
 
+## 库与代码
 
+**[HomeMirror](https://speakerdeck.com/rock3r/tools-of-the-trade-droidcon-nyc-2015)**
+（github.com）  
+使用 Android 应用程序来为我家的镜子供能。
 
+**[Telescope ](https://speakerdeck.com/rock3r/tools-of-the-trade-droidcon-nyc-2015)**
+（github.com）  
+一个能更容易捕获您应用程序 bug 的工具。
 
+**[ksoap2-android 3.5.0 发布了](https://speakerdeck.com/rock3r/tools-of-the-trade-droidcon-nyc-2015)**
+（github.com）  
+安卓系统的 ksoap2 库发布到了 3.5 版本，在该版本中更新了很多东西。
 
 
 
