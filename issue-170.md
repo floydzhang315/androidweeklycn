@@ -68,7 +68,7 @@ Dan Lew 提出了一些优秀的观点，说明了你为什么不应该在你的
 
 **[使用 Contentful 来创建你的第一个脱机 Android 应用程序](https://www.contentful.com/blog/2015/05/29/vault-android-library-content-sync/?utm_campaign=android-weekly-2015-09&utm_medium=email&utm_source=newsletter)**
 （www.contentful.com）  
-其内容不是固定的编码，而是一种可以保持的乐趣。Contentful 通过它的 JSON API 将托管的内容发送到移动应用程序。它的目标是为了让开发更简单: 通过下面的链接，您可以看到安卓系统中可以立即使用内容同步库。我们邀请您尝试 Contentful，因为它是开发人员最友好的 CMS。
+其内容不是固定的编码，而是一种可以保持的乐趣。Contentful 通过它的 JSON API 将托管的内容发送到移动应用程序。它的目标是为了让开发更简单： 通过下面的链接，您可以看到安卓系统中可以立即使用内容同步库。我们邀请您尝试 Contentful，因为它是开发人员最友好的 CMS。
 
 **[让您的手机去代替你分析吧](https://answers.io/?utm_source=sponsor&utm_medium=androidweekly&utm_campaign=androidweekly_9.13.2015&utm_content=sponsor_link)**
 （answers.io）  
@@ -82,7 +82,7 @@ Answers 会让您了解用户在您的应用程序内的行为以及什么才是
 
 **[安卓开发人员](https://fuzzproductions.com/jobs/apply/android-developer)**
 （speakerdeck.com）  
-我们正在寻找经验丰富安卓开发人员，有实进行过安卓 APP 的开发，有参加过多人项目的经验。在 Fuzz 里，你将会领导和开发为许许多多公司打造的拥有各种不同功能的安卓 APP，我们的目标是从创业公司到世界前 100 强。
+我们正在寻找经验丰富安卓开发人员，有进行过安卓 APP 的开发，有参加过多人项目的经验。在 Fuzz 里，你将会领导和开发为许许多多公司打造的拥有各种不同功能的安卓 APP，我们的目标是从创业公司到世界前 100 强。
 
 **[移动开发经理 @ Spotify](https://www.spotify.com/us/jobs/view/o9Pt1fwc/)**
 （New York）  
@@ -104,7 +104,7 @@ Answers 会让您了解用户在您的应用程序内的行为以及什么才是
 
 **[HomeMirror](https://github.com/HannahMitt/HomeMirror)**
 （github.com）  
-使用 Android 应用程序来为我家的镜子供能。
+使用 Android 应用程序来为框架的镜子供能。
 
 **[Telescope ](https://github.com/mattprecious/telescope)**
 （github.com）  
@@ -138,7 +138,7 @@ Rx Observables 的互动关系图。
 
 **[安卓系统对话框：Haley Smith](https://www.youtube.com/watch?v=I_9GpFFkCYY&feature=youtu.be)**
 （www.youtube.com）  
-来自 Slack 的 Haley Smith 在她的 Droidcon NYC 演讲上给我们提前介绍了辅助功能。低端的成果比比皆是!
+来自 Slack 的 Haley Smith 在她的 Droidcon NYC 演讲上给我们提前介绍了辅助功能。低端的成果比比皆是！
 
 ## 事件
 
