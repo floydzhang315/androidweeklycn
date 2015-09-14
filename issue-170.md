@@ -126,7 +126,23 @@ Answers 会让您了解用户在您的应用程序内的行为以及什么才是
 （github.com）  
 一个来自罗马  Nurik 的简单的基于 web 的 3D 的图层可视化工具 (用于可视化材料 Ui 和其他涉及深度/阴影的东西) 。
 
+**[RxMarbles](https://speakerdeck.com/rock3r/tools-of-the-trade-droidcon-nyc-2015)**
+（github.com）  
+Rx Observables 的互动关系图。
 
+## 视频
 
+**[安卓对话框: Marcos Paulo Souza Damasceno
+](https://speakerdeck.com/rock3r/tools-of-the-trade-droidcon-nyc-2015)**
+（github.com）  
+在 Droidcon NYC 的前一天，Huyen 和 Marcos Paulo Souza Damasceno ( Droidcon Montreal 的非凡Android 开发者以及协办) 聊了聊 Android 动画和 Droidcon Montreal (和它的食物)。
 
+**[安卓系统对话框：Haley Smith](https://speakerdeck.com/rock3r/tools-of-the-trade-droidcon-nyc-2015)**
+（github.com）  
+来自 Slack 的 Haley Smith 在她的 Droidcon NYC 演讲上给我们提前介绍了辅助功能。低端的成果比比皆是!
 
+## 事件
+
+**[Droidcon San Francisco](https://speakerdeck.com/rock3r/tools-of-the-trade-droidcon-nyc-2015)**
+（github.com）  
+使用此促销代码可以得到 20%的折扣: DROIDCON4AW20
