@@ -40,7 +40,7 @@ Mark Allison 继续来延续这个系列，本文谈了谈数据绑定库能为�
 （android-developers.blogspot.com）  
 这是另一个在 Google Play 上分享的来自于开发者寻求成功的谷歌系类精选技巧贴士。本周，他们分享了来自于 Telltale 游戏如何在 Android TV 上创建一个成功的游戏的建议。
 
-
+## 赞助
 
 
 
