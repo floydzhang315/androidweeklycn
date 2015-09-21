@@ -88,8 +88,46 @@ Design Notes 是由设计师 Liam Spradlin 创建的新的视频播客，专注�
 
 ## 库与代码
 
+**[AndroidAppCrashFlowChart](https://github.com/octohub/AndroidAppCrashFlowChart)**
+（github.com）  
+这是一个可以帮助解决现代安卓开发崩溃的流程图。这正是一个关于协作的开放源码，所以请提交您的请求。
 
+**[Material-Animations](https://github.com/lgvalle/Material-Animations)**
+（github.com）  
+这是一个可以通过 Android 的过渡框架完成的三个主要类型的动画的巨大的演示代码示例。
 
+## 新闻
 
+**[新的安卓棉花糖示例程序](http://android-developers.blogspot.com/2015/09/new-android-marshmallow-sample-apps.html)**
+（android-developers.blogspot.com）  
+三个新的 Android 棉花糖示例应用程序在本周已经下线了。像往常一样，在谷歌在 GitHub 的样品库或通过 Android Studio 示例浏览器都可用。
 
+## 工具
 
+**[安卓测试支持库的新版本](https://plus.google.com/+AndroidDevelopers/posts/SXVtgnoKcAY)**
+（plus.google.com）  
+谷歌刚刚发布了新版本的 Android 测试支持库，为 Espresso 以及其他东西进行了更新和 bug 修复。
+
+**[Android 功能图形发生器](http://www.norio.be/android-feature-graphic-generator/)**
+（www.norio.be）  
+Android 的功能图形生成器允许您为您的安卓应用程序轻松地创建一个简单而有吸引力的功能图形。它将根据谷歌的准则生成一个 PNG 图像文件。
+
+**[已经发布了的 Android Studio 1.4 通过金丝雀通道发布了它的候选版本 1 ](https://plus.google.com/+AndroidDevelopers/posts/9xKdWFJUWjN)**
+（plus.google.com）  
+谷歌刚刚通过金丝雀通道(和 β 4 β 通道)发布了 Android Studio 1.4 的候选版本 1。
+
+## 视频
+
+**[安卓系统对话框: Sebastiano Poggi](https://www.youtube.com/watch?v=LilvK3N-5dU&feature=youtu.be)**
+（www.youtube.com）  
+在 XML 中，所有这些"工具"属性是什么以及如何在 Android Studio 中使用它？来自于 Novoda 和 Android GDE 的 Android 工匠 Sebastiano Poggi 将会带你了解这些工具。
+
+**[将你的行为与 CoordinatorLayout 进行绑定](https://www.youtube.com/watch?v=x5o2hGMMmIw&feature=youtu.be)**
+（www.youtube.com）  
+在本视频演示中，Dave Smith 将会讲授关于如何使用 Android 的 CoordinatorLayout 行为创建自定义行为的基本知识和方法。
+
+## 事件
+
+**[在 ARM 上开发 64 位 Android 程序](https://www.eventbrite.co.uk/e/developing-for-64-bit-android-on-arm-tickets-16815505630)**
+（www.eventbrite.co.uk）  
+来自 ARM 的系统和软件组开发人员和 ARM 的合作伙伴支持组的培训人员将为您提供一些关键信息和培训来让你加速了解 64 位的 ARM 平台上的安卓支持的先进技术。我们会涉64 位 ARMv8 A 架构和指令集的细节以及开发环境中，并且我们会给您提供如何将您的本地代码移植到 64 位机器的有用的建议。
