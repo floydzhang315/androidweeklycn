@@ -18,7 +18,7 @@ Marshmallow 介绍了一种通过闲置模式来帮助设备保持电池寿命�
 
 **[如何让您的应用程序流畅的运行](http://blog.nimbledroid.com/2015/09/17/how-to-make-your-application-fluid.html)**
 （blog.nimbledroid.com）  
-不断的去衡量您的应用程序的性能以便再它表现不佳的时候去进行检测，这一点是非常重要的。一旦检测到性能上出现了一些问题，你应该专注的去找到问题的根源。
+不断的去衡量您的应用程序的性能以便在它表现不佳的时候去进行检测，这一点是非常重要的。一旦检测到性能上出现了一些问题，你应该专注的去找到问题的根源。
 
 **[使用 Espresso Intents 来测试您的应用程序的意图](http://michaelevans.org/blog/2015/09/15/testing-intents-with-espresso-intents/)**
 （michaelevans.org）  
@@ -48,7 +48,7 @@ Mark Allison 继续来延续这个系列，本文谈了谈数据绑定库能为�
 
 **[磁力移动应用程序黑客马拉松挑战赛](http://ml.magnet.com/devpost-challengeAndroid.html)**
 （ml.magnet.com）  
-现在这里有一个机会 -您可以通过使用创新形的新的开源消息传递平台来创建一个高度互动的移动应用程序在我们的黑客马拉松比赛中获奖。快来参加我们的磁力消息黑客马拉松吧，在一个管理单元上将强大的消息传递功能添加到您的应用程序中，并在 10 月 26 日前提交你的 masterpiece(s)就有效。今天就开始吧！
+现在这里有一个机会 -您可以通过使用创新形的新的开源消息传递平台来创建一个高度互动的移动应用程序在我们的黑客马拉松比赛中获奖。快来参加我们的磁力消息黑客马拉松吧，在一个管理单元上将强大的消息传递功能添加到您的应用程序中，并在 10 月 26 日前提交你的 masterpiece(s) 就有效。今天就开始吧！
 
 **[让您的手机去代替你分析吧](https://answers.io/?utm_source=sponsor&utm_medium=androidweekly&utm_campaign=androidweekly_9.13.2015&utm_content=sponsor_link)**
 （answers.io）  
