@@ -42,6 +42,34 @@ Mark Allison 继续来延续这个系列，本文谈了谈数据绑定库能为�
 
 ## 赞助
 
+**[为您的应用程序进行自动 CI 构建和测试](https://ship.io/landing/?utm_source=androiddevweekly)**
+（ship.io）  
+为原生安卓应用程序的简单云 CI 检查 Ship.io。跨多个平台和设备进行测试和部署。Ship 支持 Gradle，最新的安卓 OS 以及更多的东西。我们还特别为每周安卓开发的朋友们准备了 100 美元的信用卡。请在注册后输入促销代码 androiddevweekly！
+
+**[磁力移动应用程序黑客马拉松挑战赛](http://ml.magnet.com/devpost-challengeAndroid.html)**
+（ml.magnet.com）  
+现在这里有一个机会 -您可以通过使用创新形的新的开源消息传递平台来创建一个高度互动的移动应用程序在我们的黑客马拉松比赛中获奖。快来参加我们的磁力消息黑客马拉松吧，在一个管理单元上将强大的消息传递功能添加到您的应用程序中，并在 10 月 26 日前提交你的 masterpiece(s)就有效。今天就开始吧！
+
+**[让您的手机去代替你分析吧](https://answers.io/?utm_source=sponsor&utm_medium=androidweekly&utm_campaign=androidweekly_9.13.2015&utm_content=sponsor_link)**
+（answers.io）  
+Answers 会让您了解用户在您的应用程序内的行为以及什么才是您的数据的重点 — — 所有的时间内。被 Spotify，Buzzfeed 以及 Google Play 上其他顶级应用程序所信任，Answers 每天会处理超过 50 亿的事件。快来使用 Answers 吧— — 它是免费的！
+
+## 设计
+
+**[欢迎来到 DESIGN NOTES](https://plus.google.com/+LiamSpradlin/posts/jVzRHAq3Vno)**
+（plus.google.com）  
+Design Notes 是由设计师 Liam Spradlin 创建的新的视频播客，专注于和开发人员以及设计师谈论他们正在进行并且让他们兴奋的项目(或工作)。
+
+**[在安卓上对 Twitter Experience 进行检修](https://medium.com/@BashaChris/overhauling-the-twitter-experience-on-android-80f5b09e7c67)**
+（medium.com）  
+在本文中，Chris Basha 创建一个完全重新设计的 Twitter 的应用程序。快来看看怎么开始设计一个应用程序。
+
+## 工作
+
+**[在安卓上对 Twitter Experience 进行检修](https://medium.com/@BashaChris/overhauling-the-twitter-experience-on-android-80f5b09e7c67)**
+（medium.com）  
+在本文中，Chris Basha 创建一个完全重新设计的 Twitter 的应用程序。快来看看怎么开始设计一个应用程序。
+
 
 
 
