@@ -66,9 +66,28 @@ Design Notes 是由设计师 Liam Spradlin 创建的新的视频播客，专注�
 
 ## 工作
 
-**[在安卓上对 Twitter Experience 进行检修](https://medium.com/@BashaChris/overhauling-the-twitter-experience-on-android-80f5b09e7c67)**
-（medium.com）  
-在本文中，Chris Basha 创建一个完全重新设计的 Twitter 的应用程序。快来看看怎么开始设计一个应用程序。
+**[X-团队寻找Android 开发者](http://bit.ly/1LlB1jB)**
+（远程）  
+我们正在寻找安卓了解面广的开发者。最完美的候选人应该是对不同的框架和库高度熟练的。我们是完全的远程操作，并且我们会提供必要的资金来帮助你实现你的目标以及成长为一个远程的开发人员。
+
+**[Android 开发者](http://columbus.craigslist.org/web/5216365723.html)**
+（哥伦布，俄亥俄州）  
+正在快速增长的哥伦布的基于软件的公司正在寻找 Android 开发者来成为我们软件产品的团队的一部分。我们正在一个快节奏的移动医疗软件空间和产品的行业领导者一同工作，我们使用我们的产品来进行创新交付。只需要全职团队和本地成员。
+
+**[Android 开发者](https://de.scalable.capital/wp-content/uploads/2015/09/20150914_Android_developer.pdf)**
+（慕尼黑，德国）  
+我们正在寻找有经验的 Android 开发人员来加入我们的敏捷软件开发团队。你将负责设计并且在安卓系统上执行我们的本地应用程序。
+
+**[安卓开发人员](http://www.jsco.re/3c4l)**
+（Philadelphia or NYC）  
+我们正在寻找一名安卓工程师加入到我们在费拉德尔菲亚或者纽约的四人团队中。我们正在和设计和产品团队紧密合作中，旨在开发一款能够为我们的用户在各种平台上 -- 手机、平台和电视 -- 提供出色的视频流服务的应用。快来加入 DramaFever 吧！
+
+**[高级安卓工程师 - 帮助我们开发 SDK！](https://pspdfkit.com/jobs/#section_android)**
+（Philadelphia or NYC）  
+我们为成千的 APP 比如 Dropbox 提供引擎，并且正在 Cockpits of Lufthansa 或者伦敦地铁中使用。PSPDFKit 将会是你参加的最有趣和最复杂的项目之一。我们有一个极具天赋的团队，并亟待发展。
+
+## 库与代码
+
 
 
 
