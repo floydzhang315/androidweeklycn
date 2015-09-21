@@ -26,11 +26,11 @@ Marshmallow 介绍了一种通过闲置模式来帮助设备保持电池寿命�
 
 **[单元测试 RxJava Observables 和 Subscriptions](http://fedepaol.github.io/blog/2015/09/13/testing-rxjava-observables-subscriptions/)**
 （fedepaol.github.io）  
-RxJava 本身就是异步的，因此，起初对它单元测试可能看起来让人令人生畏，尤其是如果您使用异步交互来进行测试。幸运的是，RxJava (和 RxAndroid) 都带有有几个工具，并且它们会让这个过程变得容易得多。
+RxJava 本身就是异步的，因此，起初对它单元测试可能看起来让人令人生畏，尤其是如果您使用异步交互来进行测试。幸运的是，RxJava (和 RxAndroid) 都带有几个工具，并且它们会让这个过程变得容易得多。
 
 **[Android Lollipop 上的 ASLR 状态](https://copperhead.co/2015/05/11/aslr-android-zygote)**
 （copperhead.co）  
-本文有关于 ASLR 在安卓上的状态，Zygote 如何去打破这个状态以及 Copperhead 如何在它们的 ROM 中固定它。
+本文有关于 ASLR 在 Android 上的状态，Zygote 如何去打破这个状态以及 Copperhead 如何在它们的 ROM 中固定它。
 
 **[数据绑定 — —第二部分](https://blog.stylingandroid.com/data-binding-part-2/)**
 （blog.stylingandroid.com）  
@@ -44,7 +44,7 @@ Mark Allison 继续来延续这个系列，本文谈了谈数据绑定库能为�
 
 **[为您的应用程序进行自动 CI 构建和测试](https://ship.io/landing/?utm_source=androiddevweekly)**
 （ship.io）  
-为原生安卓应用程序的简单云 CI 检查 Ship.io。跨多个平台和设备进行测试和部署。Ship 支持 Gradle，最新的安卓 OS 以及更多的东西。我们还特别为每周安卓开发的朋友们准备了 100 美元的信用卡。请在注册后输入促销代码 androiddevweekly！
+为原生 Andorid 应用程序的简单云 CI 检查 Ship.io。跨多个平台和设备进行测试和部署。Ship 支持 Gradle，最新的 Android OS 以及更多的东西。我们还特别为每周 Android 开发的朋友们准备了 100 美元的信用卡。请在注册后输入促销代码 androiddevweekly！
 
 **[磁力移动应用程序黑客马拉松挑战赛](http://ml.magnet.com/devpost-challengeAndroid.html)**
 （ml.magnet.com）  
@@ -60,7 +60,7 @@ Answers 会让您了解用户在您的应用程序内的行为以及什么才是
 （plus.google.com）  
 Design Notes 是由设计师 Liam Spradlin 创建的新的视频播客，专注于和开发人员以及设计师谈论他们正在进行并且让他们兴奋的项目(或工作)。
 
-**[在安卓上对 Twitter Experience 进行检修](https://medium.com/@BashaChris/overhauling-the-twitter-experience-on-android-80f5b09e7c67)**
+**[在 Android 上对 Twitter Experience 进行检修](https://medium.com/@BashaChris/overhauling-the-twitter-experience-on-android-80f5b09e7c67)**
 （medium.com）  
 在本文中，Chris Basha 创建一个完全重新设计的 Twitter 的应用程序。快来看看怎么开始设计一个应用程序。
 
@@ -68,7 +68,7 @@ Design Notes 是由设计师 Liam Spradlin 创建的新的视频播客，专注�
 
 **[X-团队寻找Android 开发者](http://bit.ly/1LlB1jB)**
 （远程）  
-我们正在寻找安卓了解面广的开发者。最完美的候选人应该是对不同的框架和库高度熟练的。我们是完全的远程操作，并且我们会提供必要的资金来帮助你实现你的目标以及成长为一个远程的开发人员。
+我们正在寻找 Android 知识面广的开发者。最完美的候选人应该是对不同的框架和库高度熟练的。我们是完全的远程操作，并且我们会提供必要的资金来帮助你实现你的目标以及成长为一个远程的开发人员。
 
 **[Android 开发者](http://columbus.craigslist.org/web/5216365723.html)**
 （哥伦布，俄亥俄州）  
@@ -76,13 +76,13 @@ Design Notes 是由设计师 Liam Spradlin 创建的新的视频播客，专注�
 
 **[Android 开发者](https://de.scalable.capital/wp-content/uploads/2015/09/20150914_Android_developer.pdf)**
 （慕尼黑，德国）  
-我们正在寻找有经验的 Android 开发人员来加入我们的敏捷软件开发团队。你将负责设计并且在安卓系统上执行我们的本地应用程序。
+我们正在寻找有经验的 Android 开发人员来加入我们的敏捷软件开发团队。你将负责设计并且在 Android 系统上执行我们的本地应用程序。
 
-**[安卓开发人员](http://www.jsco.re/3c4l)**
+**[Android 开发人员](http://www.jsco.re/3c4l)**
 （Philadelphia or NYC）  
 我们正在寻找一名安卓工程师加入到我们在费拉德尔菲亚或者纽约的四人团队中。我们正在和设计和产品团队紧密合作中，旨在开发一款能够为我们的用户在各种平台上 -- 手机、平台和电视 -- 提供出色的视频流服务的应用。快来加入 DramaFever 吧！
 
-**[高级安卓工程师 - 帮助我们开发 SDK！](https://pspdfkit.com/jobs/#section_android)**
+**[高级 Android工程师 - 帮助我们开发 SDK！](https://pspdfkit.com/jobs/#section_android)**
 （Philadelphia or NYC）  
 我们为成千的 APP 比如 Dropbox 提供引擎，并且正在 Cockpits of Lufthansa 或者伦敦地铁中使用。PSPDFKit 将会是你参加的最有趣和最复杂的项目之一。我们有一个极具天赋的团队，并亟待发展。
 
@@ -90,7 +90,7 @@ Design Notes 是由设计师 Liam Spradlin 创建的新的视频播客，专注�
 
 **[AndroidAppCrashFlowChart](https://github.com/octohub/AndroidAppCrashFlowChart)**
 （github.com）  
-这是一个可以帮助解决现代安卓开发崩溃的流程图。这正是一个关于协作的开放源码，所以请提交您的请求。
+这是一个可以帮助解决现代 Android 开发崩溃的流程图。这正是一个关于协作的开放源码，所以请提交您的请求。
 
 **[Material-Animations](https://github.com/lgvalle/Material-Animations)**
 （github.com）  
@@ -98,19 +98,19 @@ Design Notes 是由设计师 Liam Spradlin 创建的新的视频播客，专注�
 
 ## 新闻
 
-**[新的安卓棉花糖示例程序](http://android-developers.blogspot.com/2015/09/new-android-marshmallow-sample-apps.html)**
+**[新的 Android 棉花糖示例程序](http://android-developers.blogspot.com/2015/09/new-android-marshmallow-sample-apps.html)**
 （android-developers.blogspot.com）  
 三个新的 Android 棉花糖示例应用程序在本周已经下线了。像往常一样，在谷歌在 GitHub 的样品库或通过 Android Studio 示例浏览器都可用。
 
 ## 工具
 
-**[安卓测试支持库的新版本](https://plus.google.com/+AndroidDevelopers/posts/SXVtgnoKcAY)**
+**[Android 测试支持库的新版本](https://plus.google.com/+AndroidDevelopers/posts/SXVtgnoKcAY)**
 （plus.google.com）  
 谷歌刚刚发布了新版本的 Android 测试支持库，为 Espresso 以及其他东西进行了更新和 bug 修复。
 
 **[Android 功能图形发生器](http://www.norio.be/android-feature-graphic-generator/)**
 （www.norio.be）  
-Android 的功能图形生成器允许您为您的安卓应用程序轻松地创建一个简单而有吸引力的功能图形。它将根据谷歌的准则生成一个 PNG 图像文件。
+Android 的功能图形生成器允许您为您的 Android 应用程序轻松地创建一个简单而有吸引力的功能图形。它将根据谷歌的准则生成一个 PNG 图像文件。
 
 **[已经发布了的 Android Studio 1.4 通过金丝雀通道发布了它的候选版本 1 ](https://plus.google.com/+AndroidDevelopers/posts/9xKdWFJUWjN)**
 （plus.google.com）  
@@ -118,7 +118,7 @@ Android 的功能图形生成器允许您为您的安卓应用程序轻松地创
 
 ## 视频
 
-**[安卓系统对话框: Sebastiano Poggi](https://www.youtube.com/watch?v=LilvK3N-5dU&feature=youtu.be)**
+**[Android 系统对话框: Sebastiano Poggi](https://www.youtube.com/watch?v=LilvK3N-5dU&feature=youtu.be)**
 （www.youtube.com）  
 在 XML 中，所有这些"工具"属性是什么以及如何在 Android Studio 中使用它？来自于 Novoda 和 Android GDE 的 Android 工匠 Sebastiano Poggi 将会带你了解这些工具。
 
@@ -130,4 +130,4 @@ Android 的功能图形生成器允许您为您的安卓应用程序轻松地创
 
 **[在 ARM 上开发 64 位 Android 程序](https://www.eventbrite.co.uk/e/developing-for-64-bit-android-on-arm-tickets-16815505630)**
 （www.eventbrite.co.uk）  
-来自 ARM 的系统和软件组开发人员和 ARM 的合作伙伴支持组的培训人员将为您提供一些关键信息和培训来让你加速了解 64 位的 ARM 平台上的安卓支持的先进技术。我们会涉64 位 ARMv8 A 架构和指令集的细节以及开发环境中，并且我们会给您提供如何将您的本地代码移植到 64 位机器的有用的建议。
+来自 ARM 的系统和软件组开发人员和 ARM 的合作伙伴支持组的培训人员将为您提供一些关键信息和培训来让你加速了解 64 位的 ARM 平台上的 Android 支持的先进技术。我们会涉及 64 位 ARMv8 A 架构和指令集的细节以及开发环境，并且我们会给您提供如何将您的本地代码移植到 64 位机器的有用的建议。
