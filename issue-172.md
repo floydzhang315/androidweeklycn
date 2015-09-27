@@ -105,7 +105,7 @@ Dan Lew 一直在跟踪 Google Play 服务各个版本中的方法计数。
 
 **[使用 Android Nearby 寻找目标](http://fragmentedpodcast.com/episodes/17/)**
 （fragmentedpodcast.com）  
-来自谷歌的安德鲁和阿克沙伊参见了 Fragmented duo 谈了谈 Android Nearby。
+来自谷歌的安德鲁和阿克沙伊参加了 Fragmented duo 并谈了谈关于 Android Nearby 的内容。
 
 **[Android 开发者后台: 第 35 集: 数据绑定](http://androidbackstage.blogspot.com/2015/09/episode-35-data-bound.html)**
 （androidbackstage.blogspot.com）  
