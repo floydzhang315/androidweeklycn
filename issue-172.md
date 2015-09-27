@@ -57,12 +57,21 @@ Answers 会让您了解用户在您的应用程序内的行为以及什么才是
 （hired.com）  
 当 Android 高水平开发者找工作时，Hired 赋予了他们更多的权力。您只需要创建一个简历，然后在雇佣市场上停留 1 个星期，便会有适合您的科技公司！你将会提前得到工资/股，并且你没有义务接受任何的 offer。感兴趣吗?今天就加入 Hired 吧！
 
+## 设计
 
+**[星巴克 Android 材料设计](https://medium.com/android-news/starbucks-android-material-design-142e2c43feb )**
+（medium.com）  
+星巴克数字产品为谷歌的新设计框架的演变。
 
+## 工作
 
+**[Android 开发者](http://columbus.craigslist.org/web/5216365723.html)**
+（哥伦布，俄亥俄州）  
+正在快速增长的哥伦布的基于软件的公司正在寻找 Android 开发者来成为我们软件产品的团队的一部分。我们正在一个快节奏的移动医疗软件空间和产品的行业领导者一同工作，我们使用我们的产品来进行创新交付。只需要全职团队和本地成员。
 
-
-
+**[在 Android Weekly 上发布一份工作](http://androidweekly.net/jobs/new)**
+（androidweekly.net）  
+在 Android Weekly 上发布一份工作收到了来自世界各地超过 30500 Android 开发者的申请。
 
 
 
