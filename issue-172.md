@@ -73,6 +73,20 @@ Answers 会让您了解用户在您的应用程序内的行为以及什么才是
 （androidweekly.net）  
 在 Android Weekly 上发布一份工作收到了来自世界各地超过 30500 Android 开发者的申请。
 
+## 库与代码
 
+**[SearchBubble](https://github.com/tunjos/searchbubble)**
+（github.com）  
+SearchBubble 允许您使用浮动按钮搜索，它就是这么简单。
 
+**[Archi](https://github.com/ivacf/archi)**
+（github.com）  
+此存储库展示并比较了用以下方法创建了三次确切相同的示例应用程序：标准 Android、Model View Presenter 和 Model View View-Model。
 
+**[Tray](https://github.com/grandcentrix/tray)**
+（github.com）  
+Tray 是 SharedPreferences 的跨进程数据管理方法。Tray 也提供比较先进的 API 可以让您通过升级和迁移机制来让您更简单的维护您的数据。
+
+**[渲染脚本演示：修复画笔](https://android.googlesource.com/platform/frameworks/rs/+/master/java/tests/HealingBrush/)**
+（github.com）  
+修复画笔 (比如 Photoshop) 在渲染脚本的执行情况。
