@@ -90,3 +90,32 @@ Tray 是 SharedPreferences 的跨进程数据管理方法。Tray 也提供比较
 **[渲染脚本演示：修复画笔](https://android.googlesource.com/platform/frameworks/rs/+/master/java/tests/HealingBrush/)**
 （github.com）  
 修复画笔 (比如 Photoshop) 在渲染脚本的执行情况。
+
+## 工具
+
+**[自 Google Play 服务 7.0.0 以来的方法计数](https://docs.google.com/spreadsheets/d/1XuxyP8_BOrpU30QUO-0s7NK2dUfy-IEqy5nOf1BhZ9M/edit?usp=sharing)**
+（docs.google.com）  
+Dan Lew 一直在跟踪 Google Play 服务各个版本中的方法计数。
+
+## 视频和播客
+
+**[安卓性能模式-位置与电池消耗](https://www.youtube.com/watch?v=81W61JA6YHw&feature=youtu.be)**
+（www.youtube.com）  
+拥有位置识别的 Android 应用程序是令人敬畏的！但 Colt McAnlis 显示如果你不以正确的方式来收集它，它会影响您的电池的寿命。
+
+**[使用 Android Nearby 寻找目标](http://fragmentedpodcast.com/episodes/17/)**
+（fragmentedpodcast.com）  
+来自谷歌的安德鲁和阿克沙伊参见了 Fragmented duo 谈了谈 Android Nearby。
+
+**[Android 开发者后台: 第 35 集: 数据绑定](http://androidbackstage.blogspot.com/2015/09/episode-35-data-bound.html)**
+（androidbackstage.blogspot.com）  
+在这一集中，ADB与来自 Android UI 工具团队的George Mount 和 Yigit Boyar 聊天。Yigit 和 George 正在开发新的数据绑定功能。
+
+**[Android 开发模式: Android 开发的最佳做法](http://android-developers.blogspot.com/2015/09/android-development-patterns-series-on.html)**
+（android-developers.blogspot.com）  
+Android 开发模式系列视频的目标是把重点放在基本的组件和最佳做法上，可以在您的应用程序创建最大的差异。
+
+**[使用运行检查来保护隐式意图](https://www.youtube.com/watch?v=HGElAW224dE&linkId=17306832)**
+（www.youtube.com）  
+如果没有活动来处理您已经创建的意图，隐式意图可能导致 ActivityNotFoundException 意外。请确保使用一个简单的运行检查来保护你的隐式意图。
+
