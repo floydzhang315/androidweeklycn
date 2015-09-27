@@ -119,3 +119,8 @@ Android 开发模式系列视频的目标是把重点放在基本的组件和最
 （www.youtube.com）  
 如果没有活动来处理您已经创建的意图，隐式意图可能导致 ActivityNotFoundException 意外。请确保使用一个简单的运行检查来保护你的隐式意图。
 
+## 特价
+
+**[#enumsmatter t 恤](https://plus.google.com/+MichaelEvans/posts/ePRHME8dgoB)**
+（plus.google.com）  
+自豪地穿上的爱的 JSR 201 与这件 #enumsmatter 衬衫。一个将有可能混淆你的奶奶以及提高血压的所有 Android 开发者的主题。
