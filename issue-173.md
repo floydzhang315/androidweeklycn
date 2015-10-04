@@ -31,14 +31,25 @@ Android 6.0 棉花糖介绍了一种能让用户通过助理与应用程序交�
 （antonioleiva.com）  
 lambda 是实现譬如收集操作等功能的基础。Kotlin 提供了一系列十分厉害并且在使用不支持 lambda 语言的时候听起来不太可能(或很详细）实现的操作。
 
+**[纠正 Android 的方法限制第 1 部分](http://antonioleiva.com/collection-operations-kotlin/)**
+（antonioleiva.com）  
+Matthias Käppler 讲述了在应对 Android 方法限制的时候的一些细节，什么东西可以正常的工作，什么东西不能正常的工作。同时也讲了我们如何利用有关于大小的性质去提高应用程序的运行状况。
 
+**[使用不同的密钥存储库来标记多个 flavor 包](http://blog.tunebrains.com/2015/10/02/gradle-multi-flavors-signing.html)**
+（blog.tunebrains.com）  
+如果您的项目中有很多的 flavor 包，这里有一个很好的方法来为每一个 flavor 包设置单独的签名密钥。
 
+**[数据绑定第 4 部分](https://blog.stylingandroid.com/data-binding-part-4/)**
+（blog.stylingandroid.com）  
+在本系列教程的第 4 部中，Mark Allison 将他的注意力转到了其他方面：即通过数据绑定技术在布局时更改视图的其他部分。
 
+**[在 Android 6.0 中，谷歌云消息在 Doze 模式下是怎么运行的](http://android-developers.blogspot.com/2015/10/how-google-cloud-messaging-handles-doze.html?linkId=17513523)**
+（android-developers.blogspot.com）  
+如果您的应用程序使用了谷歌的云消息(GCM)，那么您需要考虑当用户的手机在 Doze 模式下的一些行为。
 
-
-
-
-
+**[用注释来支持您的 contract](https://medium.com/sebs-top-tips/annotations-to-support-your-contracts-609ff259d5df)**
+（medium.com）  
+在本文您将学习支持注释是什么，以及为什么要使用它们。
 
 
 
