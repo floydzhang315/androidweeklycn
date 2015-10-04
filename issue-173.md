@@ -100,3 +100,4 @@ NowSecure 是向公众开放源代的 Android 漏洞测试套件(安卓系统 VT
 **[Google Play 上支持 100MB 以内的 APK 了](http://android-developers.blogspot.com/2015/09/support-for-100mb-apks-on-google-play.html)**
 （android-developers.blogspot.com）  
 为了支持越来越多的在 Google Play 上建立丰富的应用程序和游戏在的开发人员，谷歌将 APK 文件大小限制从 50MB 增加到了 100MB。
+
