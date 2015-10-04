@@ -101,3 +101,44 @@ NowSecure 是向公众开放源代的 Android 漏洞测试套件(安卓系统 VT
 （android-developers.blogspot.com）  
 为了支持越来越多的在 Google Play 上建立丰富的应用程序和游戏在的开发人员，谷歌将 APK 文件大小限制从 50MB 增加到了 100MB。
 
+## 工具
+
+**[Android Studio 1.4 ](http://android-developers.blogspot.com/2015/09/android-studio-14.html)**
+（android-developers.blogspot.com）  
+谷歌在 Android Studio 稳定释放通道发布了1.4更新版本。Android Studio 1.4 下大多数的工作是增强引擎盖，但还是有少数的新功能。
+
+## 视频和播客
+
+**[使用 NotificationCompat 来构建客观的状态通知栏](https://www.youtube.com/watch?v=-iog_fmm6mE&linkId=17516958)**
+（www.youtube.com）  
+NotificationCompat 将会给您提供一个单一的API，用于构建 Android 应用程序的状态通知栏，并且支持 Android 穿戴设备以及 Android 自动扩展。
+
+**[Android 棉花糖 6.0：请求允许](https://www.youtube.com/watch?v=iZqDdvhTZj0&feature=youtu.be)**
+（www.youtube.com）  
+Nick Butcher 解释了 Android 运行时的许可模型，并说明了要求用户权限的正确的方式。
+
+**[Android 对话框：Jake Wharton](https://www.youtube.com/watch?v=qGM04LcSCmo&feature=youtu.be)**
+（www.youtube.com）  
+在 Droidcon NYC 2015 之前，Huyen 试图在 Reactive Extensions 和 RxAndroid 以及优化上征求一下 Wharton 的意见。
+
+**[Android 对话框：Yash Prabhu ](https://www.youtube.com/watch?v=ADIpLtGI5YY&feature=youtu.be)**
+（www.youtube.com）  
+在 Chiu-Ki 在 Droidcon NYC 发表讲话之前，她和 Yash 对应用程式内购买进行了讨论。
+
+**[Android Studio 支持 VectorDrawable](https://www.youtube.com/watch?v=8e3I-PYJNHg)**
+（www.youtube.com）  
+在 Android Studio 1.4 中，开发人员可以从素材库或从 SVG 文件中进行转换来创建 VectorDrawable 资源。此外，为了向后兼容，所有 VectorDrawable 资源在它们生成时将自动转换成 PNG 文件。
+
+**[Android棉花糖6.0：应用程序的链接](https://www.youtube.com/watch?v=LQoohRwojmw)**
+（www.youtube.com）  
+应用程序的链接是 Android 棉花糖的一项新功能，它可以为您自己的域更快的打开网站链接。从 Wojtek Kaliciński 那里了解到了该如何验证网站的所有权和为那些下载了您的应用程序的用户消除那些具有歧义的对话框。
+
+**[虚拟机平台的创造者 Dan Bornstein 的视频问答](https://newcircle.com/s/post/1765/2015/09/25/q-and-a-with-dan-bornstein-the-creator-of-dalvik-video)**
+（newcircle.com）  
+Dan Bornstein，站在 Android 虚拟机平台后边的人，热心的出现在 SF Android 用户小组聚会上回答现场听众的提问。
+
+## 书籍
+
+**[ Android 应用程序开发中的 RxJava](http://www.oreilly.com/programming/free/rxjava-for-android-app-development.csp)**
+（www.oreilly.com）  
+在这个免费在线的 Reilly 电子书中，手机软件工程师 Matt Dupree 将向您介绍 RxJava 基础，然后使用真实世界的场景来演示这个库如何使快速的完成往往往往被人们认为是混乱和缺乏弹性的任务。
