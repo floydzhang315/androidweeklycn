@@ -51,7 +51,16 @@ Matthias Käppler 讲述了在应对 Android 方法限制的时候的一些细�
 （medium.com）  
 在本文您将学习支持注释是什么，以及为什么要使用它们。
 
+## 赞助
 
+**[新的 Android 地理防护 SDK 加倍准确和流畅](http://www.pathsense.com/geofence/)**
+（www.pathsense.com）  
+获取免费的 PathSense Android 地理防护 SDK，它可以消除误报并且让您的应用程序中的地理防护加倍的准确和流畅。谷歌服务 GeofencingApi 的一个完整的嵌入式解决方案现在加入了他们的测试。
 
+**[Hassle-free 为原生应用进行持续的集成](http://greenhouseci.com/?utm_source=androidweekly)**
+（greenhouseci.com）  
+您是否厌倦了配置 Jenkins？ Greenhouse 是 Android（和iOS）应用程序的一个基于云的持续性集成服务。为您的每个提交进行生成、测试和发布您的应用程序，没有任何复杂的配置或安装-你只需要启动并且点击几下就可以运行。免费多达2个应用程序！
 
-
+**[让您的手机去代替你分析吧](https://answers.io/?utm_source=sponsor&utm_medium=androidweekly&utm_campaign=androidweekly_9.13.2015&utm_content=sponsor_link)**
+（answers.io）  
+Answers 会让您了解用户在您的应用程序内的行为以及什么才是您的数据的重点 — — 所有的时间内。被 Spotify，Buzzfeed 以及 Google Play 上其他顶级应用程序所信任，Answers 每天会处理超过 50 亿的事件。快来使用 Answers 吧— — 它是免费的！
