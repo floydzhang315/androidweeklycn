@@ -77,6 +77,26 @@ Answers 会让您了解用户在您的应用程序内的行为以及什么才是
 （任何地点）  
 您想要和一个使用尖端技术并且充满动机和人才的队伍一同工作吗？你是否在使用 Java 的时候但是也不害怕接触 C++？你是否喜欢反应性编程？ 你是否喜欢设计 API 以及创建数百万人都在使用的东西？建造的东西？如果你喜欢，那和我们一起工作吧！
 
+## 库和代码
 
+**[ExplosionField](https://github.com/tyrantgit/ExplosionField)**
+（github.com）  
+对视图有巨大的影响。
 
+**[EffectiveAndroid](https://github.com/rallat/EffectiveAndroid)**
+（github.com）  
+此示例项目演示如何在 Android 应用中使用 MVP 和整洁的架构。
 
+**[Paper](https://github.com/pilgr/Paper)**
+（github.com）  
+Paper 是 Android 的一个快速的 NoSQL 数据存储，它允许您使用有效的 Kryo 序列化来保存/恢复 Java 对象以及自动处理数据结构变化。
+
+## 新闻
+
+**[发布安卓系统漏洞测试套件](https://www.nowsecure.com/blog/2015/09/14/announcing-android-vulnerability-test-suite/)**
+（www.nowsecure.com）  
+NowSecure 是向公众开放源代的 Android 漏洞测试套件(安卓系统 VTS)。
+
+**[Google Play 上支持 100MB 以内的 APK 了](http://android-developers.blogspot.com/2015/09/support-for-100mb-apks-on-google-play.html)**
+（android-developers.blogspot.com）  
+为了支持越来越多的在 Google Play 上建立丰富的应用程序和游戏在的开发人员，谷歌将 APK 文件大小限制从 50MB 增加到了 100MB。
