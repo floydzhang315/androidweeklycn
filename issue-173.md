@@ -25,7 +25,7 @@ Android 6.0 棉花糖介绍了一种能让用户通过助理与应用程序交�
 
 **[如何提高您的状态栏通知的吸引力](https://plus.google.com/+AndroidDevelopers/posts/MK6d4bukpm7)**
 （plus.google.com）  
-当有通知出现在任务提示栏的时候，您肯定想去打破吸引人和被忽略的完美平衡。其实很容易让您的通知栏收到关注，如果您使用信息性文本并且为用户提供行为来让您的通知栏更好看。
+当有通知出现在任务提示栏的时候，您肯定想去打破通知栏的吸引性和被忽略的完美平衡。其实很容易让您的通知栏受到关注，如果您使用信息性文本并且为用户提供行为来让您的通知栏更美观。
 
 **[Kotlin 中的收集操作](http://antonioleiva.com/collection-operations-kotlin/)**
 （antonioleiva.com）  
@@ -73,9 +73,9 @@ Answers 会让您了解用户在您的应用程序内的行为以及什么才是
 
 ## 工作
 
-**[Android工程师 - 创建一个SDK](https://pspdfkit.com/jobs/#android)**
+**[Android 工程师 - 创建一个SDK](https://pspdfkit.com/jobs/#android)**
 （任何地点）  
-您想要和一个使用尖端技术并且充满动机和人才的队伍一同工作吗？你是否在使用 Java 的时候但是也不害怕接触 C++？你是否喜欢反应性编程？ 你是否喜欢设计 API 以及创建数百万人都在使用的东西？建造的东西？如果你喜欢，那和我们一起工作吧！
+您想要和一个使用尖端技术并且充满动机和人才的队伍一同工作吗？你是否在使用 Java 的时候但是也不害怕接触 C++？你是否喜欢反应性编程？ 你是否喜欢设计 API 以及创建数百万人都在使用的东西？如果你喜欢，那和我们一起工作吧！
 
 ## 库和代码
 
@@ -141,4 +141,4 @@ Dan Bornstein，站在 Android 虚拟机平台后边的人，热心的出现在 
 
 **[ Android 应用程序开发中的 RxJava](http://www.oreilly.com/programming/free/rxjava-for-android-app-development.csp)**
 （www.oreilly.com）  
-在这个免费在线的 Reilly 电子书中，手机软件工程师 Matt Dupree 将向您介绍 RxJava 基础，然后使用真实世界的场景来演示这个库如何使快速的完成往往往往被人们认为是混乱和缺乏弹性的任务。
+在这个免费在线的 Reilly 电子书中，手机软件工程师 Matt Dupree 将向您介绍 RxJava 基础，然后使用真实世界的场景来演示这个库如何使快速的完成往往被人们认为是混乱和缺乏弹性的任务。
