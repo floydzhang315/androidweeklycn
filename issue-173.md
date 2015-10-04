@@ -64,3 +64,19 @@ Matthias Käppler 讲述了在应对 Android 方法限制的时候的一些细�
 **[让您的手机去代替你分析吧](https://answers.io/?utm_source=sponsor&utm_medium=androidweekly&utm_campaign=androidweekly_9.13.2015&utm_content=sponsor_link)**
 （answers.io）  
 Answers 会让您了解用户在您的应用程序内的行为以及什么才是您的数据的重点 — — 所有的时间内。被 Spotify，Buzzfeed 以及 Google Play 上其他顶级应用程序所信任，Answers 每天会处理超过 50 亿的事件。快来使用 Answers 吧— — 它是免费的！
+
+## 设计
+
+**[材料设计：一个彻底的了解](https://medium.com/@protoio/material-design-an-in-depth-look-d4f4055a5ecf)**
+（medium.com）  
+材料设计到底是什么，在 Android 之外它存在吗？它将如何从这里成长和进化的？
+
+## 工作
+
+**[Android工程师 - 创建一个SDK](https://pspdfkit.com/jobs/#android)**
+（任何地点）  
+您想要和一个使用尖端技术并且充满动机和人才的队伍一同工作吗？你是否在使用 Java 的时候但是也不害怕接触 C++？你是否喜欢反应性编程？ 你是否喜欢设计 API 以及创建数百万人都在使用的东西？建造的东西？如果你喜欢，那和我们一起工作吧！
+
+
+
+
