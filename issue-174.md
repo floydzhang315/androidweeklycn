@@ -21,7 +21,7 @@
 
 **[运行权限、文件 以及 ACTION_SEND](https://commonsware.com/blog/2015/10/07/runtime-permissions-files-action-send.html)**
 （commonsware.com）  
-在过去的几年中，当开发者需要去移动 content:// Uri 值  而不是 file:// Uri 值的时候，特别是譬如 ACTION_SEND 等事物，会感到特别有压力。然而 Android 6.0 的运行权限制度进一步加深了这种压力。
+在过去的几年中，当开发者需要去移动 content:// Uri 值而不是 file:// Uri 值的时候，特别是譬如 ACTION_SEND 等事物，会感到特别有压力。然而 Android 6.0 的运行权限制度进一步加深了这种压力。
 
 **[为什么要使用 Observable.create()  方法，而不是仅仅从 Observable 直接继承？](http://www.grokkingandroid.com/why-use-observable-create-and-not-just-inherit-from-observable/)**
 （www.grokkingandroid.com）  
@@ -37,7 +37,7 @@
 
 **[Android 棉花糖中当前的一些解决方案](https://futurestud.io/blog/retrofit-2-upgrade-guide-from-1-9/)**
 （futurestud.io）  
-请注意！目前在 Android 棉花糖中解决类似“Implicit Intent”问题的方式和以前已经不一样了。如果您还是想以前一样，这样有可能会终止您的应用程序的运行。
+请注意！目前在 Android 棉花糖中解决类似“Implicit Intent”问题的方式和以前已经不一样了。如果您还是像以前一样，这样有可能会终止您的应用程序的运行。
 
 **[延迟加载 Dex 文件](https://medium.com/@Macarse/lazy-loading-dex-files-d41f6f37df0e)**
 （futurestud.io）  
@@ -45,7 +45,7 @@ Carlos Sessa 在这里分享了一些他的一些关于 MulyiDex 的技巧，以
 
 **[Android 谷歌地图入门](http://code.tutsplus.com/tutorials/getting-started-with-google-maps-for-android-intermediate--cms-24739)**
 （code.tutsplus.com）  
-在本教程中，你将会学到比您以前在文章看到的那些技术的一个更大的扩展。本文介绍了关于在地图顶部放置视图菜单，覆盖室内层的选择控制器以及在您的应用程序中添加一个街道视图的组件。
+在本教程中，你将会学到比您以前在文章看到的那些技术的一个更大的扩展。本文介绍了关于在地图顶部放置视图菜单，覆盖室内层的选择控制器以及在您的应用程序中添加一个街道视图的组件的相关内容。
 
 **[Kotlin：一个在 Java 6 废墟上的新希望](http://code.tutsplus.com/tutorials/getting-started-with-google-maps-for-android-intermediate--cms-24739)**
 （code.tutsplus.com）  
@@ -53,7 +53,7 @@ Carlos Sessa 在这里分享了一些他的一些关于 MulyiDex 的技巧，以
 
 **[Espresso：保存以及还原状态](http://blog.sqisland.com/2015/10/espresso-save-and-restore-state.html)**
 （blog.sqisland.com）  
-您是否保存或者还原您的活动，碎片以及自定义视图的状态？您会测试它们吗？一个测试保存和还原状态的方法是在您的 Espresso 测试中进行选择屏幕操作。
+您是否保存或者还原您的活动，碎片以及自定义视图的状态？您会测试它们吗？一个测试保存和还原状态的方法是在您的 Espresso 测试中进行旋转屏幕操作。
 
 **[改进 Android 的方法限制 - 第 2 部分](https://developers.soundcloud.com/blog/congratulations-you-have-a-lot-of-code-remedying-androids-method-limit-part-2)**
 （developers.soundcloud.com）  
@@ -61,7 +61,7 @@ Carlos Sessa 在这里分享了一些他的一些关于 MulyiDex 的技巧，以
 
 ## 赞助
 
-**[使用 PacketZoom 的 SDK 来进行更快的加载内容分](https://www.packetzoom.com/?ref=androidweekly)**
+**[使用 PacketZoom 的 SDK 来进行更快的加载内容](https://www.packetzoom.com/?ref=androidweekly)**
 （www.packetzoom.com）  
 PacketZoom 提供了一个专门为本地移动应用程序而设计的基于协议的技术服务。它可以在用户在不同的网络之间移动的时候继续进行无间隙的下载。我们专注于速度，而你便可以专注于内容。您的应用程序需要一个 PacketZoom 的SDK。今天，您可以在我们的网站上免费下载。
 
@@ -69,7 +69,7 @@ PacketZoom 提供了一个专门为本地移动应用程序而设计的基于协
 
 **[停止不必要的用户界面动画 ](https://medium.com/@sophie_paxtonUX/stop-gratuitous-ui-animation-9ece9aa9eb97)**
 （medium.com）  
-在这篇短文章中，我们将探讨关于在 UI 设计中过渡使用动画的问题，将和早起的一些视觉设计进行对比并且给出一些 关于 GUI 运动设计的比较有效的建议。
+在这篇短文章中，我们将探讨关于在 UI 设计中过渡使用动画的问题，将和早期的一些视觉设计进行对比并且给出一些关于 GUI 运动设计的比较有效的建议。
 
 **[您的 UI 并不是迪斯尼电影](https://medium.com/@sophie_paxtonUX/your-ui-isn-t-a-disney-movie-703f7fbd24d2)**
 （medium.com）  
