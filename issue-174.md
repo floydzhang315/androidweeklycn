@@ -59,11 +59,21 @@ Carlos Sessa 在这里分享了一些他的一些关于 MulyiDex 的技巧，以
 （developers.soundcloud.com）  
 在这一部分中，Matthias Käppler  分享了一个用来处理使用 dex 方法计数问题的替代选项：使用多个DEX文件。
 
+## 赞助
 
+**[使用 PacketZoom 的 SDK 来进行更快的加载内容分](https://www.packetzoom.com/?ref=androidweekly)**
+（www.packetzoom.com）  
+PacketZoom 提供了一个专门为本地移动应用程序而设计的基于协议的技术服务。它可以在用户在不同的网络之间移动的时候继续进行无间隙的下载。我们专注于速度，而你便可以专注于内容。您的应用程序需要一个 PacketZoom 的SDK。今天，您可以在我们的网站上免费下载。
 
+## 设计
 
+**[停止不必要的用户界面动画 ](https://medium.com/@sophie_paxtonUX/stop-gratuitous-ui-animation-9ece9aa9eb97)**
+（medium.com）  
+在这篇短文章中，我们将探讨关于在 UI 设计中过渡使用动画的问题，将和早起的一些视觉设计进行对比并且给出一些 关于 GUI 运动设计的比较有效的建议。
 
-
+**[您的 UI 并不是迪斯尼电影](https://medium.com/@sophie_paxtonUX/your-ui-isn-t-a-disney-movie-703f7fbd24d2)**
+（medium.com）  
+比较成熟的 UI 设计师的一个最明显的特点之一就是具有克制力。即能知道您选择的平台的性能，并且不会使用它。（直到它变得完美）
 
 
 
