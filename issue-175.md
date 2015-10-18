@@ -133,8 +133,18 @@ Chiu-Ki 在她的 Droidcon NYC 演讲之后，找到了 Corey Latislaw，然后�
 （fragmentedpodcast.com）  
 歌手以及 Android 开发者 Donn Felker 探讨了 Joshua Bloch 的第四节：使用一个私有的构造函数来执行一个不可实例化类。
 
-## ddd
+## 特别的
 
-**[为 Android 开发人员准备的 Effective Java：第四节 ](http://fragmentedpodcast.com/episodes/19/)**
-（fragmentedpodcast.com）  
-歌手以及 Android 开发者 Donn Felker 探讨了 Joshua Bloch 的第四节：使用一个私有的构造函数来执行一个不可实例化类。
+**[国家报告中的开发者经济状态](http://vmob.me/DE1Q16AndroidWeekly)**
+（vmob.me）  
+什么才是最流行的云 API？手机，物联网还是云端发展？这仅仅是我们的在 VisionMobile 的朋友最近的关于开发者经济学研究的需要解决的问题中的一部分。占用了他们 10 分钟做了一个国际趋势调查并且帮助拼凑了 2015 年最热门的开发趋势。
+
+**[参与飞利浦的 Adroid 电视竞争](http://www.yourappontv.com/android-tv-challenge)**
+（www.yourappontv.com）  
+如果你是一名开发人员，并且想做一款能在 Android 电视上运行的伟大的应用程序，那么现在就是你的机会。想想你该如何把自己整个应用程序的体验带到客厅吧。
+
+## 事件
+
+**[安卓会议列表](http://androidweekly.net/conferences)**
+（androidweekly.net）  
+不要错过任何伟大的 Android 会议，请参见我们的会议列表。
