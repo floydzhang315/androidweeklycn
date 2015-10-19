@@ -33,7 +33,7 @@ Android Studio 1.4 在生成工具中增添了一些具有向后兼容的属性�
 
 **[在 Android 域层建模](http://panavtec.me/modeling-my-android-domain-layer/)**
 （panavtec.me）  
-在 Christian Panadero 发布了关于他为什么不在 Android 中使用纯的 repository 模式的文章，之后它收到了一些反馈信息，然后他想去说明他是如此组织域层的
+在 Christian Panadero 发布了关于他为什么不在 Android 中使用纯的 repository 模式的文章之后，它收到了一些反馈信息，然后他将说明他是如何组织域层的。
 
 **[请注意 EditText 的 API 21](http://blog.danlew.net/2015/10/12/beware-edittext-on-api-21/)**
 （blog.danlew.net）  
@@ -65,7 +65,7 @@ Android Support 库 23.1.0 版本在改进之后可以使用了。
 
 **[Effective Prototyping](https://medium.com/@sophie_paxtonUX/effective-prototyping-ad97d2f469a0)**
 （medium.com）  
-Sophie Paxton 作为一个独立职业的用户体验设计师，她编辑了一些她常常使用的工具和技术，并且她分享了关于原型的有趣的东西。她决定是书写一系列的关于她工作这方面的小教程。
+Sophie Paxton 作为一个独立职业的用户体验设计师，她编辑了一些她常常使用的工具和技术，并且她分享了关于原型的有趣的东西。她决定书写一系列的关于她工作这方面的小教程。
 
 ## 工作
 
@@ -91,7 +91,7 @@ Sophie Paxton 作为一个独立职业的用户体验设计师，她编辑了一
 
 **[Universal App Campaigns 和 用户性能购置报告](http://android-developers.blogspot.com/2015/10/google-play-developer-console.html?linkId=17941931)**
 （android-developers.blogspot.com）  
-在 5 月的 谷歌 I/O 大会上，您可以预览一些新的并且强大的工具来帮助您拓宽您的业务并且可以通过参考 Google Play 上的一些比较聪明的见解来做出更聪明的决策。这些新的功能现在正在开发者控制台上。
+在 5 月的谷歌 I/O 大会上，您可以预览一些新的并且强大的工具来帮助您拓宽您的业务并且可以通过参考 Google Play 上的一些比较优质的见解来做出更聪明的决策。这些新的功能现在正在开发者控制台上。
 
 ## 工具
 
@@ -105,7 +105,7 @@ Android wear 平台的模拟器今天在 AVD 管理器上更新了。现在他�
 
 ## 视频与播客
 
-**[Android开发者在后台：UX规则](http://androidbackstage.blogspot.com/2015/10/episode-36-ux-rules.html)**
+**[Android 开发者后台：UX规则](http://androidbackstage.blogspot.com/2015/10/episode-36-ux-rules.html)**
 （androidbackstage.blogspot.com）  
  有关于交互式设计和 Android 系统用户界面(包括 Android 棉花糖中的新的音量滑杆 UI)是如何设计和进行用户测试的。
 
@@ -115,11 +115,11 @@ Android wear 平台的模拟器今天在 AVD 管理器上更新了。现在他�
 
 **[高效的 Network Batching](https://www.youtube.com/watch?v=Ecz5WDZoJok&feature=youtu.be)**
 （www.youtube.com）  
-高效的 Network Batching(www。 视频。 网)Batch, batch, batch! 这就是你所听到的网络人员所谈论的。就好像是他们想告诉你一件事。事实上的确如此。
+Batch, batch, batch! 这就是你所听到的网络人员所谈论的。就好像是他们想告诉你一件事。事实上的确如此。
 
 **[获取，参与以及挣钱](https://www.youtube.com/playlist?list=PLOU2XLYxmsILeLOEMjQVRsdISXW8_aUWY)**
 （www.youtube.com）  
-来自于谷歌的一系列的小建议视频，它们是关于如何获得并且吸引用户在应用商店获取更多的钱。
+来自于谷歌的一系列的小提示的视频，它们是关于如何获得并且吸引用户在应用商店获得更多的钱。
 
 **[Android Testing Blueprint 排练](https://www.youtube.com/watch?v=88l7QvSlo6k)**
 （www.youtube.com）  
@@ -145,6 +145,6 @@ Chiu-Ki 在她的 Droidcon NYC 演讲之后，找到了 Corey Latislaw，然后�
 
 ## 事件
 
-**[安卓会议列表](http://androidweekly.net/conferences)**
+**[Android 会议列表](http://androidweekly.net/conferences)**
 （androidweekly.net）  
 不要错过任何伟大的 Android 会议，请参见我们的会议列表。
