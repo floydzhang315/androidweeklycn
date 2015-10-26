@@ -107,6 +107,24 @@ ViewInspector 将几个有用的工具例如  Scalpel 和 Probe 添加到了视�
 （www.youtube.com）  
 Big Android BBQ 是一个 Android 开发者聚会，但是它和其他的聚会形式并不相同，可以把它称为一个 Android 套餐，它会给您提供超级豪华的有关于教育和娱乐的资源。这里有很多关于这次聚会的视频，点击链接就可以观看。
 
-**[Big Android BBQ 2015](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc_HyE1QX9heAgTPdAMqc50z)**
+**[IntelliJ IDEA 的提示和技巧](https://www.youtube.com/watch?v=eq3KiAH4IBI)**
 （www.youtube.com）  
-Big Android BBQ 是一个 Android 开发者聚会，但是它和其他的聚会形式并不相同，可以把它称为一个 Android 套餐，它会给您提供超级豪华的有关于教育和娱乐的资源。这里有很多关于这次聚会的视频，点击链接就可以观看。
+这里有许多有关于使用 IntelliJ IDEA 的提示和技巧，可以帮助您更加高效的开发。这里有大量的提示和技巧。
+
+**[使用 Reactive，一次 Android 构建之旅](https://www.youtube.com/watch?v=R16OHcZJTno&feature=youtu.be)**
+（www.youtube.com）  
+Matthias Käppler 简要的概述了 Android 应用程序的体系结构是如何发展起来的，也讲述了使用 RxJava 来处理异步事件流是如何影响着它的设计，从数据源谈到了业务逻辑和显示。
+
+**[Android 对话框：Annyce Davis ](https://www.youtube.com/watch?v=t1mF7_R59iI)**
+（www.youtube.com）  
+Annyce Davis 从事华盛顿邮报应用程序中的有关于视频部分的工作，在这里她谈论了有关于在 Android 上播放视频，创建 flavor ，简化架构，测试以及公众演讲的内容。
+
+**[和 Arthur Bodolec 谈话过程的记录 ](http://www.designnotes.fm/all/with-arthur-bodolec)**
+（www.designnotes.fm）  
+本周  Liam Spradlin 对资讯阅读器设计有限公司的创始人 Arthur Bodolec 进行了访谈。
+
+## 特别的
+
+**[AnDevCon，11月14-16日，旧金山](http://www.andevcon.com/)**
+（www.andevcon.com）  
+ AnDevCon 是一个为开发 Android 应用程序的软件开发人员，企业，商业软件公司，或者初创企业开设的比较领先的技术会议。有很多的事件主机开发人员和30余家展览商将会参与，所有的内容都将围绕着 Android 开发展开。
