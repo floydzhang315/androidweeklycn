@@ -21,7 +21,7 @@ Mark Allison 的一个比较具有挑战性的任务就是去提出一个类似�
 
 **[测试 Geofencing API ](https://medium.com/@etiennelawlor/testing-the-geofencing-api-2e4dcbff94b4#.nb7sy9ou1)**
 （medium.com）  
-Etienne Lawlor 发现了一组可以用来测试 Geofencing API  的缺点的工具。本文就展示了他如何进行 Geofencing API 测试。
+Etienne Lawlor 发现了一组可以用来测试 Geofencing API  的缺陷的工具。本文就展示了他如何进行 Geofencing API 测试。
 
 **[ jibber-jabber 等整洁的架构到底能干什么？](http://pguardiola.com/blog/clean-architecture-part-1/)**
 （pguardiola.com）  
@@ -63,7 +63,7 @@ Etienne Lawlor 发现了一组可以用来测试 Geofencing API  的缺点的工
 
 ## 工作
 
-**[(高级)Android开发者](https://pathsense.com/awesomeactivity/)**
+**[(高级)Android开发者](https://blinkist.recruiterbox.com/jobs/fk0h8ny)**
 （德国柏林）  
 我们正在寻找具有高度责任感，并且具有独立判断与决策性的 Android 开发者。赶快申请加入一群具有多元化思维，聪明并且友好的人来一起开发一个伟大的产品吧，我们在柏林等你。
 
@@ -109,7 +109,7 @@ Big Android BBQ 是一个 Android 开发者聚会，但是它和其他的聚会�
 
 **[IntelliJ IDEA 的提示和技巧](https://www.youtube.com/watch?v=eq3KiAH4IBI)**
 （www.youtube.com）  
-这里有许多有关于使用 IntelliJ IDEA 的提示和技巧，可以帮助您更加高效的开发。这里有大量的提示和技巧。
+这里有许多有关于使用 IntelliJ IDEA 的提示和技巧，可以帮助您更加高效的开发。
 
 **[使用 Reactive，一次 Android 构建之旅](https://www.youtube.com/watch?v=R16OHcZJTno&feature=youtu.be)**
 （www.youtube.com）  
