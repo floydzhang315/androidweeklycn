@@ -81,3 +81,29 @@ Plaid 是一个 material design 的案例展示，我们希望你可以安装它
 **[Favor](https://github.com/soarcn/Favor)**
 （github.com）  
 一个用来使用 Android 示例程序的比较容易的方法。
+
+## 新闻
+
+**[用 Weave 来为这个互联的世界创建 Brillo-iant 设备](http://googledevelopers.blogspot.com/2015/10/building-brillo-iant-devices-with-weave_27.html)**
+（googledevelopers.blogspot.com）  
+在今年早些的时候，Google 预展了Brillo 和 Weave，即他们关于创建互联设备的完整的解决方案。作为我们邀请计划的一部分，现在他们将它扩展到了更广泛的开发者社区。
+
+**[为汽车开发 Android 应用程序的新课程](http://android-developers.blogspot.com/2015/10/introducing-new-course-on-developing.html)**
+（android-developers.blogspot.com）  
+你将学习到如果将您现有的媒体和消息应用程序扩展并移植到一个汽车内，谷歌和 Udacity 进行合作去介绍了一门新的课程，关于在 Android 汽车上的普适计算的内容。
+
+## 视频和播客
+
+**[Android 和 Android studio：入门](https://www.youtube.com/watch?v=Z98hXV9GmzY&feature=youtu.be)**
+（www.youtube.com）  
+在这个简短的教程中，您将了解怎么开始 Android 开发以及如何去使用 Android studio.本教程主要致力于教您如何去安装 Android studio 和创建您的第一个 Android 应用程序。
+
+**[Android 对话框：Virginia Poltrack](https://www.youtube.com/watch?v=4kCwhnAZjwI)**
+（www.youtube.com）  
+Chiu-Ki 和 Virginia 谈论了他们是如何在 Fit Cat 上进行合作的，还讲述了开发者和设计者是怎么沟通的。
+
+## 特别的
+
+**[国家报告中的开发者经济状态](http://vmob.me/DE1Q16AndroidWeekly)**
+（vmob.me）  
+什么才是最流行的云 API？手机，物联网还是云端发展？这仅仅是我们的在 VisionMobile 的朋友最近的关于开发者经济学研究的需要解决的问题中的一部分。占用了他们 10 分钟做了一个国际趋势调查并且帮助拼凑了 2015 年最热门的开发趋势。
