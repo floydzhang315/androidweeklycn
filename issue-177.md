@@ -61,3 +61,23 @@ Donn Felker 描述了一些 Android 平台的长处和弱点。
 **[Android开发趣闻 - 第 3 集](http://willowtreeapps.com/blog/android-development-tidbits-no-3/?utm_source=social&utm_medium=social&utm_campaign=android-tidbits-no3_CF)**
 （willowtreeapps.com）  
 开发者的七个新的趣闻。
+
+## 工作
+
+**[Dropbox 招聘 Android 软件开发工程师](https://www.dropbox.com/jobs/listing/109128)**
+（Seattle, WA）  
+Dropbox 移动应用小组的重点是要在 Dropbox 应用程序上进行创新，不断的改善技术基础和用户界面。快来吧，和我们一起创造 Dropbox 的未来！
+
+## 库与代码
+
+**[Plaid](https://github.com/nickbutcher/plaid)**
+（github.com）  
+Plaid 是一个 material design 的案例展示，我们希望你可以安装它。它收集了一些来自于 Designer News，Dribbble 服务以及 Product Hunt 的一些比较好的新闻和创作灵感，它演示了使用材料原则来创建具有触觉、大胆、易懂的用户界面。
+
+**[MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)**
+（github.com）  
+一个强大的 Android 图形视图/图表视图库，支持线-杆-派-雷达-泡沫-和K线理论以及缩放、拖动和动画。
+
+**[Favor](https://github.com/soarcn/Favor)**
+（github.com）  
+一个用来使用 Android 示例程序的比较容易的方法。
