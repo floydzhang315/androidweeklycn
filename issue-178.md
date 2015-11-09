@@ -62,7 +62,7 @@ Dropbox 移动应用小组的重点是要在 Dropbox 应用程序上进行创新
 
 **[X-团队招募 Android 开发者](http://bit.ly/1OnVLcN)**
 （远程）  
-我们正在寻找对 Android 具有广泛理解的开发人员。当然，我们期望的比较完美的候选人应该对不同的库和框架高度熟练。我们需要 100 个远程开发者，并且我们将会提供一定的资金来帮助你实现你的目标如果你成为一个远程开发人员。
+我们正在寻找对 Android 具有广泛理解的开发人员。当然，我们期望的比较完美的候选人应该对不同的库和框架高度熟练。我们需要 100 个远程开发者，如果你成为一个远程开发人员，那么我们将会提供一定的资金来帮助你实现你的目标。
 
 **[Android 开发者](https://app.jobvite.com/j?cj=o7YR0fwG&s=Android_Weekly)**
 （墨尔本，悉尼）  
@@ -80,7 +80,7 @@ Frodo 是一个可以在日志输出框（logcat）中输出 RxJava Observables 
 
 **[自编译的 Android 应用程序](https://github.com/Tribler/self-compile-Android)**
 （github）  
-这是一个对应用程序能够进行自编译，进行突变以及传播病毒的强有力的证明。不过目前只能在 Android 4.3_r3.1 Galaxy Nexus 或者 android 5.1.1 下的 Cyanogenmod 12.1上进行运行，已经在  Nexus 5,6 和 10 版本的设备上得到了证实。
+这是一个对应用程序能够进行自编译，进行突变以及传播病毒的强有力的证明。不过目前只能在 Android 4.3_r3.1 Galaxy Nexus 或者 android 5.1.1 下的 Cyanogenmod 12.1上进行运行，并且已经在  Nexus 5,6 和 10 版本的设备上得到了证实。
 
 **[EmailAutoCompleteTextView](https://github.com/tasomaniac/EmailAutoCompleteTextView)**
 （github）  
@@ -104,7 +104,7 @@ EmailAutoCompleteTextView 是一个带有内置邮件的适配器的 AutoComplet
 
 **[Google Play Services 8.3 添加了新功能](https://www.youtube.com/watch?v=nAUeEJ51Cko)**
 （www.youtube.com）  
-Google Play services 8.3 现在刚刚发布出来，他可以让你建立一些更好的应用程序，可以增加一些比如：登录，连接位置提供程序，应用程序邀请以及可穿戴的数据层 API 等新功能。
+Google Play services 8.3 现在刚刚发布出来，它可以让你建立一些更好的应用程序，可以增加一些比如：登录，连接位置提供程序，应用程序邀请以及可穿戴的数据层 API 等新功能。
 
 **[Design Notes 之 Kirill Grouchnikov ](http://www.designnotes.fm/all/with-kirill-grouchnikov)**
 （www.designnotes.fm）  
@@ -120,7 +120,7 @@ Chet 和来自 WebView 团队的 Ben Murdoch 和 Richard Coles 进行了会谈�
 
 **[和 Hadi Hariri 谈一谈 Kotlin](http://fragmentedpodcast.com/episodes/20/)**
 （fragmentedpodcast.com）  
-Fragmented 团队的业务最佳人选 —— Hadi Hariri 和们谈论了有关于什么东西可以在 Kotlin Android 开发中称为新的希望？ 
+Fragmented 团队的业务最佳人选 —— Hadi Hariri 和我们谈论了有关于什么东西可以在 Kotlin Android 开发中称为新的希望？ 
 
 **[这些 toggle 可以为我做什么？](https://www.youtube.com/watch?v=Fmf9b2EqqIE&feature=youtu.be)**
 （www.youtube.com）  
