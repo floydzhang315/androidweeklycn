@@ -8,13 +8,13 @@
 
 **[Android App 链接可以不再使用应用程序选择对话框了](https://plus.google.com/+AndroidDevelopers/posts/BPyTSdWgLVV)**
 （plus.google.com）  
-谷歌宣布 Android 棉花糖支持 App 链接，那么这意味着我们有了一个更好的方式讲 Android 应用程序和它相关联的网站连接起来。
+谷歌宣布 Android 棉花糖支持 App 链接，那么这意味着我们有了一个更好的方式将 Android 应用程序和它相关联的网站连接起来。
 
 **[Android Intents 第三部分 - 让您的手机能说话](http://ejf.io/android/intents/part3/)**
 （ejf.io）  
 这是该系列文章的第三部分，在本部分，我们将分享一些关于在应用程序之间传递消息的内容。本文中，E John Feig 创建了一个公用的接口，通过这个接口，其他的应用程序也可以真正意义上的使用我们的应用程序了。
 
-**[你在获取焦点的时候遇到了问题吗？请参阅 Android 获取焦点入门](https://www.novoda.com/blog/do-you-even-focus-bro/)**
+**[你在获取焦点的时候遇到问题了吗？请参阅 Android 获取焦点入门](https://www.novoda.com/blog/do-you-even-focus-bro/)**
 （www.novoda.com）  
 如果你为非触控用户设计 App，那就意味着你需要确保两件事情：访问和反馈。通常的，你需要识别用户的活动，并且让他们成为你的目标用户。
 
@@ -82,11 +82,11 @@ Android Gradle 是用于生成基于 assets 文件夹的 Assets.java 文件的�
 
 **[Android 开发者后台：第38集](http://androidbackstage.blogspot.com/2015/11/episode-38-fingerprint.html)**
 （androidbackstage.blogspot.com）  
-Tor 与 Chet 和来自 Android系统UI团队的 吉姆·米勒聊了聊 Android 6 上棉花糖的新的指纹特征功能(亦即"Nexus Imprint")。
+Tor 与 Chet 和来自 Android系统UI团队的吉姆·米勒聊了聊 Android 6 上棉花糖的新的指纹特征功能(亦即"Nexus Imprint")。
 
 **[Android 对话框：大卫.史密斯](https://www.youtube.com/watch?v=GFtoxou13J8)**
 （www.youtube.com）  
-Huyen 来到了 Highlands Ranch, CO 和 Google开发者专家戴夫·史密斯进行了聊天，作为一个专家，他从事有关于学习 Android、培训和了解安卓开发者应该知道的事情以及提高他们的游戏水平。
+Huyen 来到了 Highlands Ranch, CO 和 Google开发者专家戴夫·史密斯进行了聊天，作为一个专家，他从事有关于学习 Android、培训等工作，他也了解安卓开发者应该知道的事情并提高他们的游戏水平。
 
 **[开发者产品秀 Ep 002](https://www.youtube.com/watch?v=UHXT00Mc4hw)**
 （www.youtube.com）  
